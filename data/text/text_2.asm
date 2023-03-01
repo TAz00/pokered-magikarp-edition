@@ -1698,6 +1698,10 @@ _OakSpeechText1::
 	line "Welcome to the"
 	cont "world of MAGIKARP!"
 
+	para "Did you know I"
+	line "stream on twitch?"
+	cont "tv/drebsdorf"
+
 	para "My name is OAK!"
 	line "People call me"
 	cont "the MAGIKARP PROF!"
