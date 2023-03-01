@@ -1,3 +1,17 @@
+# It's Red and Blue, but its mostly magikarps
+
+- Trainers are magikarps
+- Rival is a magikarp
+- Gym leaders are themselves, but with magikarps
+- Pokemon look like magikarp, but act like their normal selves
+- Last rival battle features lvl 100 magikarps
+- POKé replaced by KARP
+- Dialouge modified
+- And some other little magikarp tweaks
+
+Why? My brother and I were brainstorming ideas after he got an IPS modded gameboy
+ 
+
 # Pokémon Red and Blue [![Build Status][ci-badge]][ci]
 
 This is a disassembly of Pokémon Red and Blue.
