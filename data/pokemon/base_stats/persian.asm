@@ -8,7 +8,7 @@
 	db 148 ; base exp
 
 	INCBIN "gfx/pokemon/front/persian.pic", 0, 1 ; sprite dimensions
-	dw PersianPicFront, PersianPicBack
+	dw DodrioPicFront, DodrioPicBack
 
 	db SCRATCH, GROWL, BITE, SCREECH ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

@@ -8,7 +8,7 @@
 	db 130 ; base exp
 
 	INCBIN "gfx/pokemon/front/porygon.pic", 0, 1 ; sprite dimensions
-	dw PorygonPicFront, PorygonPicBack
+	dw BulbasaurPicFront, BulbasaurPicBack
 
 	db TACKLE, SHARPEN, CONVERSION, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

@@ -21,7 +21,7 @@ _Museum2FText3::
 	done
 
 _Museum2FText4::
-	text "I want a PIKACHU!"
+	text "I want a MAGIKARP!"
 	line "It's so cute!"
 
 	para "I asked my Daddy"
@@ -29,7 +29,7 @@ _Museum2FText4::
 	done
 
 _Museum2FText5::
-	text "Yeah, a PIKACHU"
+	text "Yeah, a MAGIKARP"
 	line "soon, I promise!"
 	done
 

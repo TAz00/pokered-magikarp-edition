@@ -49,12 +49,12 @@ _BoulderText::
 _MartSignText::
 	text "All your item"
 	line "needs fulfilled!"
-	cont "#MON MART"
+	cont "MAGIKARP MART"
 	done
 
 _PokeCenterSignText::
-	text "Heal Your #MON!"
-	line "#MON CENTER"
+	text "Heal Your MAGIKARP!"
+	line "MAGIKARP CENTER"
 	done
 
 _FoundItemText::
@@ -77,7 +77,7 @@ _OaksAideHiText::
 	para "If you caught @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
-	line "kinds of #MON,"
+	line "kinds of MAGIKARP,"
 	cont "I'm supposed to"
 	cont "give you an"
 	cont "@"
@@ -89,7 +89,7 @@ _OaksAideHiText::
 	cont "least @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text " kinds of"
-	cont "#MON?"
+	cont "MAGIKARP?"
 	done
 
 _OaksAideUhOhText::
@@ -98,7 +98,7 @@ _OaksAideUhOhText::
 	cont "caught only @"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
 	text_start
-	cont "kinds of #MON!"
+	cont "kinds of MAGIKARP!"
 
 	para "You need @"
 	text_decimal hOaksAideRequirement, 1, 3
@@ -126,7 +126,7 @@ _OaksAideHereYouGoText::
 	line "caught @"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
 	text " kinds "
-	cont "of #MON!"
+	cont "of MAGIKARP!"
 	cont "Congratulations!"
 
 	para "Here you go!"

@@ -8,7 +8,7 @@
 	db 67 ; base exp
 
 	INCBIN "gfx/pokemon/front/dratini.pic", 0, 1 ; sprite dimensions
-	dw DratiniPicFront, DratiniPicBack
+	dw ArticunoPicFront, ArticunoPicBack
 
 	db WRAP, LEER, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_SLOW ; growth rate

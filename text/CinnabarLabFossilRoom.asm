@@ -5,7 +5,7 @@ _Lab4Text_75dc6::
 	line "doctor!"
 
 	para "I study here rare"
-	line "#MON fossils!"
+	line "MAGIKARP fossils!"
 
 	para "You! Have you a"
 	line "fossil for me?"
@@ -45,12 +45,12 @@ _Lab4Text_610ae::
 	line "@"
 	text_ram wStringBuffer
 	text ", a"
-	cont "#MON that is"
+	cont "MAGIKARP that is"
 	cont "already extinct!"
 
 	para "My Resurrection"
 	line "Machine will make"
-	cont "that #MON live"
+	cont "that MAGIKARP live"
 	cont "again!"
 	done
 

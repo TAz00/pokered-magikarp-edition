@@ -1,6 +1,6 @@
 _KogaPostBattleAdviceText::
 	text "When afflicted by"
-	line "TOXIC, #MON"
+	line "TOXIC, MAGIKARP"
 	cont "suffer more and"
 	cont "more as battle"
 	cont "progresses!"
@@ -13,7 +13,7 @@ _KogaSoulBadgeInfoText::
 	text "Now that you have"
 	line "the SOULBADGE,"
 	cont "the DEFENSE of"
-	cont "your #MON"
+	cont "your MAGIKARP"
 	cont "increases!"
 
 	para "It also lets you"
@@ -49,7 +49,7 @@ _TM06NoRoomText::
 _FuchsiaGymBattleText1::
 	text "Strength isn't"
 	line "the key for"
-	cont "#MON!"
+	cont "MAGIKARP!"
 
 	para "It's strategy!"
 

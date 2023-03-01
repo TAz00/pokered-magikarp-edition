@@ -8,7 +8,7 @@
 	db 143 ; base exp
 
 	INCBIN "gfx/pokemon/front/wartortle.pic", 0, 1 ; sprite dimensions
-	dw WartortlePicFront, WartortlePicBack
+	dw BulbasaurPicFront, BulbasaurPicBack
 
 	db TACKLE, TAIL_WHIP, BUBBLE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate

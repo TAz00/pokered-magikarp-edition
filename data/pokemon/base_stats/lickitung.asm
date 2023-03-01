@@ -8,7 +8,7 @@
 	db 127 ; base exp
 
 	INCBIN "gfx/pokemon/front/lickitung.pic", 0, 1 ; sprite dimensions
-	dw LickitungPicFront, LickitungPicBack
+	dw RhydonPicFront, RhydonPicBack
 
 	db WRAP, SUPERSONIC, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

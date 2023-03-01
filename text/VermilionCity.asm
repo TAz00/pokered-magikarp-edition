@@ -2,7 +2,7 @@ _VermilionCityText1::
 	text "We're careful"
 	line "about pollution!"
 
-	para "We've heard GRIMER"
+	para "We've heard MAGIKARP"
 	line "multiplies in"
 	cont "toxic sludge!"
 	done
@@ -62,7 +62,7 @@ _VermilionCityText4::
 	line "building on this"
 	cont "plot of land."
 
-	para "My #MON is"
+	para "My MAGIKARP is"
 	line "tamping the land."
 	done
 
@@ -73,7 +73,7 @@ _VermilionCityText5::
 
 _VermilionCityText14::
 	text_start
-	para "A MACHOP is"
+	para "A MAGIKARP is"
 	line "stomping the land"
 	cont "flat."
 	done
@@ -98,7 +98,7 @@ _VermilionCityText8::
 
 	para "ROUTE 12 may be"
 	line "blocked off by a"
-	cont "sleeping #MON."
+	cont "sleeping MAGIKARP."
 
 	para "Detour through"
 	line "ROCK TUNNEL to"
@@ -108,14 +108,14 @@ _VermilionCityText8::
 	done
 
 _VermilionCityText11::
-	text "#MON FAN CLUB"
-	line "All #MON fans"
+	text "MAGIKARP FAN CLUB"
+	line "All MAGIKARP fans"
 	cont "welcome!"
 	done
 
 _VermilionCityText12::
 	text "VERMILION CITY"
-	line "#MON GYM"
+	line "MAGIKARP GYM"
 	cont "LEADER: LT.SURGE"
 
 	para "The Lightning "

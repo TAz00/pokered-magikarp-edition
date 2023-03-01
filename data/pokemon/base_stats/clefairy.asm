@@ -8,7 +8,7 @@
 	db 68 ; base exp
 
 	INCBIN "gfx/pokemon/front/clefairy.pic", 0, 1 ; sprite dimensions
-	dw ClefairyPicFront, ClefairyPicBack
+	dw RhydonPicFront, RhydonPicBack
 
 	db POUND, GROWL, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_FAST ; growth rate

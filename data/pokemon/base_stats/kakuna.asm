@@ -8,7 +8,7 @@
 	db 71 ; base exp
 
 	INCBIN "gfx/pokemon/front/kakuna.pic", 0, 1 ; sprite dimensions
-	dw KakunaPicFront, KakunaPicBack
+	dw ArticunoPicFront, ArticunoPicBack
 
 	db HARDEN, NO_MOVE, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

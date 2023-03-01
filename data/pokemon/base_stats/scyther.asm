@@ -8,7 +8,7 @@
 	db 187 ; base exp
 
 	INCBIN "gfx/pokemon/front/scyther.pic", 0, 1 ; sprite dimensions
-	dw ScytherPicFront, ScytherPicBack
+	dw RhydonPicFront, RhydonPicBack
 
 	db QUICK_ATTACK, NO_MOVE, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

@@ -1,6 +1,6 @@
 _Route8BattleText1::
 	text "You look good at"
-	line "#MON, but"
+	line "MAGIKARP, but"
 	cont "how's your chem?"
 	done
 
@@ -40,7 +40,7 @@ _Route8EndBattleText3::
 	prompt
 
 _Route8AfterBattleText3::
-	text "Go with GRIMER"
+	text "Go with MAGIKARP"
 	line "first...and..."
 	cont "...and...then..."
 	done
@@ -55,7 +55,7 @@ _Route8EndBattleText4::
 	prompt
 
 _Route8AfterBattleText4::
-	text "When #MON grow"
+	text "When MAGIKARP grow"
 	line "up they get ugly!"
 	cont "They shouldn't"
 	cont "evolve!"
@@ -63,7 +63,7 @@ _Route8AfterBattleText4::
 
 _Route8BattleText5::
 	text "School is fun, but"
-	line "so are #MON."
+	line "so are MAGIKARP."
 	done
 
 _Route8EndBattleText5::
@@ -78,7 +78,7 @@ _Route8AfterBattleText5::
 	done
 
 _Route8BattleText6::
-	text "MEOWTH is so cute,"
+	text "MAGIKARP is so cute,"
 	line "meow, meow, meow!"
 	done
 
@@ -87,8 +87,8 @@ _Route8EndBattleText6::
 	prompt
 
 _Route8AfterBattleText6::
-	text "I think PIDGEY"
-	line "and RATTATA"
+	text "I think MAGIKARP"
+	line "and MAGIKARP"
 	cont "are cute too!"
 	done
 
@@ -122,7 +122,7 @@ _Route8EndBattleText8::
 
 _Route8AfterBattleText8::
 	text "Gambling and"
-	line "#MON are like"
+	line "MAGIKARP are like"
 	cont "eating peanuts!"
 	cont "Just can't stop!"
 	done
@@ -130,19 +130,19 @@ _Route8AfterBattleText8::
 _Route8BattleText9::
 	text "What's a cute,"
 	line "round and fluffy"
-	cont "#MON?"
+	cont "MAGIKARP?"
 	done
 
 _Route8EndBattleText9::
 	text "Stop!"
 
 	para "Don't be so mean"
-	line "to my CLEFAIRY!"
+	line "to my MAGIKARP!"
 	prompt
 
 _Route8AfterBattleText9::
 	text "I heard that"
-	line "CLEFAIRY evolves"
+	line "MAGIKARP evolves"
 	cont "when it's exposed"
 	cont "to a MOON STONE."
 	done

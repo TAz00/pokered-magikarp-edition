@@ -7,16 +7,16 @@ _LTSurgePostBattleAdviceText::
 
 	para "But, it's useless"
 	line "against ground-"
-	cont "type #MON!"
+	cont "type MAGIKARP!"
 	done
 
 _LTSurgeThunderBadgeInfoText::
 	text "The THUNDERBADGE"
 	line "cranks up your"
-	cont "#MON's SPEED!"
+	cont "MAGIKARP's SPEED!"
 
 	para "It also lets your"
-	line "#MON FLY any"
+	line "MAGIKARP FLY any"
 	cont "time, kid!"
 
 	para "You're special,"
@@ -37,7 +37,7 @@ _TM24ExplanationText::
 	line "THUNDERBOLT!"
 
 	para "Teach it to an"
-	line "electric #MON!"
+	line "electric MAGIKARP!"
 	done
 
 _TM24NoRoomText::
@@ -124,10 +124,10 @@ _VermilionGymGuidePreBattleText::
 	cont "American!"
 
 	para "He's an expert on"
-	line "electric #MON!"
+	line "electric MAGIKARP!"
 
 	para "Birds and water"
-	line "#MON are at"
+	line "MAGIKARP are at"
 	cont "risk! Beware of"
 	cont "paralysis too!"
 

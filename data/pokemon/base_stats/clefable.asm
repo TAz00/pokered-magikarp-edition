@@ -8,7 +8,7 @@
 	db 129 ; base exp
 
 	INCBIN "gfx/pokemon/front/clefable.pic", 0, 1 ; sprite dimensions
-	dw ClefablePicFront, ClefablePicBack
+	dw DodrioPicFront, DodrioPicBack
 
 	db SING, DOUBLESLAP, MINIMIZE, METRONOME ; level 1 learnset
 	db GROWTH_FAST ; growth rate

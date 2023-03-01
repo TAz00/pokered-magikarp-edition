@@ -8,7 +8,7 @@
 	db 166 ; base exp
 
 	INCBIN "gfx/pokemon/front/tangela.pic", 0, 1 ; sprite dimensions
-	dw TangelaPicFront, TangelaPicBack
+	dw RhydonPicFront, RhydonPicBack
 
 	db CONSTRICT, BIND, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

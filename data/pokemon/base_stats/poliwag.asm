@@ -8,7 +8,7 @@
 	db 77 ; base exp
 
 	INCBIN "gfx/pokemon/front/poliwag.pic", 0, 1 ; sprite dimensions
-	dw PoliwagPicFront, PoliwagPicBack
+	dw GrowlithePicFront, GrowlithePicBack
 
 	db BUBBLE, NO_MOVE, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate

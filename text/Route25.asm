@@ -10,7 +10,7 @@ _Route25EndBattleText1::
 	prompt
 
 _Route25AfterBattleText1::
-	text "All #MON have"
+	text "All MAGIKARP have"
 	line "weaknesses. It's"
 	cont "best to raise"
 	cont "different kinds."
@@ -76,7 +76,7 @@ _Route25EndBattleText5::
 	prompt
 
 _Route25AfterBattleText5::
-	text "If your #MON"
+	text "If your MAGIKARP"
 	line "gets confused or"
 	cont "falls asleep,"
 	cont "switch it!"
@@ -84,7 +84,7 @@ _Route25AfterBattleText5::
 
 _Route25BattleText6::
 	text "My friend has a"
-	line "cute #MON."
+	line "cute MAGIKARP."
 	cont "I'm so jealous!"
 	done
 
@@ -96,7 +96,7 @@ _Route25EndBattleText6::
 _Route25AfterBattleText6::
 	text "You came from MT."
 	line "MOON? May I have"
-	cont "a CLEFAIRY?"
+	cont "a MAGIKARP?"
 	done
 
 _Route25BattleText7::
@@ -112,13 +112,13 @@ _Route25EndBattleText7::
 
 _Route25AfterBattleText7::
 	text "Drat!"
-	line "A ZUBAT bit me"
+	line "A MAGIKARP bit me"
 	cont "back in there."
 	done
 
 _Route25BattleText8::
 	text "I'm off to see a"
-	line "#MON collector"
+	line "MAGIKARP collector"
 	cont "at the cape!"
 	done
 
@@ -130,7 +130,7 @@ _Route25EndBattleText8::
 _Route25AfterBattleText8::
 	text "The collector has"
 	line "many rare kinds"
-	cont "of #MON."
+	cont "of MAGIKARP."
 	done
 
 _Route25BattleText9::

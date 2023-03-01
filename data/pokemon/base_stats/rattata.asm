@@ -8,7 +8,7 @@
 	db 57 ; base exp
 
 	INCBIN "gfx/pokemon/front/rattata.pic", 0, 1 ; sprite dimensions
-	dw RattataPicFront, RattataPicBack
+	dw BulbasaurPicFront, BulbasaurPicBack
 
 	db TACKLE, TAIL_WHIP, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

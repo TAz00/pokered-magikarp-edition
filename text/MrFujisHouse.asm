@@ -18,12 +18,12 @@ _LavenderHouse1Text_1d8f4::
 
 	para "He looks after"
 	line "abandoned and"
-	cont "orphaned #MON!"
+	cont "orphaned MAGIKARP!"
 	done
 
 _LavenderHouse1Text_1d8f9::
 	text "It's so warm!"
-	line "#MON are so"
+	line "MAGIKARP are so"
 	cont "nice to hug!"
 	done
 
@@ -38,10 +38,10 @@ _LavenderHouse1Text4::
 _LavenderHouse1Text_1d94c::
 	text "MR.FUJI: <PLAYER>."
 
-	para "Your #DEX quest"
+	para "Your FishDEX quest"
 	line "may fail without"
 	cont "love for your"
-	cont "#MON."
+	cont "MAGIKARP."
 
 	para "I think this may"
 	line "help your quest."
@@ -57,13 +57,13 @@ _ReceivedFluteText::
 _FluteExplanationText::
 	text_start
 
-	para "Upon hearing #"
+	para "Upon hearing KARP"
 	line "FLUTE, sleeping"
-	cont "#MON will"
+	cont "MAGIKARP will"
 	cont "spring awake."
 
 	para "It works on all"
-	line "sleeping #MON."
+	line "sleeping MAGIKARP."
 	done
 
 _FluteNoRoomText::
@@ -77,7 +77,7 @@ _MrFujiAfterFluteText::
 	done
 
 _LavenderHouse1Text6::
-	text "#MON Monthly"
+	text "MAGIKARP Monthly"
 	line "Grand Prize"
 	cont "Drawing!"
 

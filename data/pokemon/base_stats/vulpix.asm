@@ -8,7 +8,7 @@
 	db 63 ; base exp
 
 	INCBIN "gfx/pokemon/front/vulpix.pic", 0, 1 ; sprite dimensions
-	dw VulpixPicFront, VulpixPicBack
+	dw ArticunoPicFront, ArticunoPicBack
 
 	db EMBER, TAIL_WHIP, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

@@ -8,7 +8,7 @@
 	db 196 ; base exp
 
 	INCBIN "gfx/pokemon/front/vaporeon.pic", 0, 1 ; sprite dimensions
-	dw VaporeonPicFront, VaporeonPicBack
+	dw ArticunoPicFront, ArticunoPicBack
 
 	db TACKLE, SAND_ATTACK, QUICK_ATTACK, WATER_GUN ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

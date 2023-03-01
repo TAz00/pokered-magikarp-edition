@@ -1,7 +1,7 @@
 _PokemonTower1Text1::
-	text "#MON TOWER was"
+	text "MAGIKARP TOWER was"
 	line "erected in the"
-	cont "memory of #MON"
+	cont "memory of MAGIKARP"
 	cont "that had died."
 	done
 
@@ -13,14 +13,14 @@ _PokemonTower1Text2::
 
 _PokemonTower1Text3::
 	text "I came to pray"
-	line "for my CLEFAIRY."
+	line "for my MAGIKARP."
 
 	para "Sniff! I can't"
 	line "stop crying..."
 	done
 
 _PokemonTower1Text4::
-	text "My GROWLITHE..."
+	text "My MAGIKARP..."
 	line "Why did you die?"
 	done
 

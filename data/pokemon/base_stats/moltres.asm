@@ -8,7 +8,7 @@
 	db 217 ; base exp
 
 	INCBIN "gfx/pokemon/front/moltres.pic", 0, 1 ; sprite dimensions
-	dw MoltresPicFront, MoltresPicBack
+	dw GrowlithePicFront, GrowlithePicBack
 
 	db PECK, FIRE_SPIN, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_SLOW ; growth rate

@@ -9,7 +9,7 @@ _RockTunnel1EndBattleText1::
 	prompt
 
 _RockTunnel1AfterBattleText1::
-	text "Watch for ONIX!"
+	text "Watch for MAGIKARP!"
 	line "It can put the"
 	cont "squeeze on you!"
 	done
@@ -27,7 +27,7 @@ _RockTunnel1EndBattleText2::
 
 _RockTunnel1AfterBattleText2::
 	text "That sleeping"
-	line "#MON on ROUTE"
+	line "MAGIKARP on ROUTE"
 	cont "12 forced me to"
 	cont "take this detour."
 	done
@@ -48,7 +48,7 @@ _RockTunnel1AfterBattleText3::
 	done
 
 _RockTunnel1BattleText4::
-	text "#MON fight!"
+	text "MAGIKARP fight!"
 	line "Ready, go!"
 	done
 
@@ -59,7 +59,7 @@ _RockTunnel1EndBattleText4::
 
 _RockTunnel1AfterBattleText4::
 	text "Oh well, I'll get"
-	line "a ZUBAT as I go!"
+	line "a MAGIKARP as I go!"
 	done
 
 _RockTunnel1BattleText5::
@@ -74,18 +74,18 @@ _RockTunnel1EndBattleText5::
 	prompt
 
 _RockTunnel1AfterBattleText5::
-	text "I saw a MACHOP"
+	text "I saw a MAGIKARP"
 	line "in this tunnel!"
 	done
 
 _RockTunnel1BattleText6::
 	text "I came this far"
-	line "for #MON!"
+	line "for MAGIKARP!"
 	done
 
 _RockTunnel1EndBattleText6::
 	text "I'm"
-	line "out of #MON!"
+	line "out of MAGIKARP!"
 	prompt
 
 _RockTunnel1AfterBattleText6::
@@ -94,7 +94,7 @@ _RockTunnel1AfterBattleText6::
 	done
 
 _RockTunnel1BattleText7::
-	text "You have #MON!"
+	text "You have MAGIKARP!"
 	line "Let's start!"
 	done
 

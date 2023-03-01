@@ -8,7 +8,7 @@
 	db 174 ; base exp
 
 	INCBIN "gfx/pokemon/front/golduck.pic", 0, 1 ; sprite dimensions
-	dw GolduckPicFront, GolduckPicBack
+	dw DodrioPicFront, DodrioPicBack
 
 	db SCRATCH, TAIL_WHIP, DISABLE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

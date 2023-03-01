@@ -1,6 +1,6 @@
 _TM18PreReceiveText::
 	text "Oh, hi! I finally"
-	line "finished #MON!"
+	line "finished MAGIKARP!"
 
 	para "Not done yet?"
 	line "This might be"
@@ -27,7 +27,7 @@ _TM18NoRoomText::
 	done
 
 _CeladonMart3Text2::
-	text "Captured #MON"
+	text "Captured MAGIKARP"
 	line "are registered"
 	cont "with an ID No."
 	cont "and OT, the name"
@@ -41,26 +41,26 @@ _CeladonMart3Text3::
 
 	para "My buddy's going"
 	line "to trade me his"
-	cont "KANGASKHAN for my"
-	cont "GRAVELER!"
+	cont "MAGIKARP for my"
+	cont "MAGIKARP!"
 	done
 
 _CeladonMart3Text4::
-	text "Come on GRAVELER!"
+	text "Come on MAGIKARP!"
 
-	para "I love GRAVELER!"
+	para "I love MAGIKARP!"
 	line "I collect them!"
 
 	para "Huh?"
 
-	para "GRAVELER turned"
+	para "MAGIKARP turned"
 	line "into a different"
-	cont "#MON!"
+	cont "MAGIKARP!"
 	done
 
 _CeladonMart3Text5::
 	text "You can identify"
-	line "#MON you got"
+	line "MAGIKARP you got"
 	cont "in trades by"
 	cont "their ID Numbers!"
 	done
@@ -95,5 +95,5 @@ _CeladonMart3Text14::
 
 _CeladonMart3Text15::
 	text "Red and Blue!"
-	line "Both are #MON!"
+	line "Both are MAGIKARP!"
 	done

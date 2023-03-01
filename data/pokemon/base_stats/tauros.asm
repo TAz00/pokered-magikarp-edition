@@ -8,7 +8,7 @@
 	db 211 ; base exp
 
 	INCBIN "gfx/pokemon/front/tauros.pic", 0, 1 ; sprite dimensions
-	dw TaurosPicFront, TaurosPicBack
+	dw GrowlithePicFront, GrowlithePicBack
 
 	db TACKLE, NO_MOVE, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_SLOW ; growth rate

@@ -1,22 +1,22 @@
 _VermilionMartText2::
 	text "There are evil"
 	line "people who will"
-	cont "use #MON for"
+	cont "use MAGIKARP for"
 	cont "criminal acts."
 
 	para "TEAM ROCKET"
 	line "traffics in rare"
-	cont "#MON."
+	cont "MAGIKARP."
 
 	para "They also abandon"
-	line "#MON that they"
+	line "MAGIKARP that they"
 	cont "consider not to"
 	cont "be popular or"
 	cont "useful."
 	done
 
 _VermilionMartText3::
-	text "I think #MON"
+	text "I think MAGIKARP"
 	line "can be good or"
 	cont "evil. It depends"
 	cont "on the trainer."

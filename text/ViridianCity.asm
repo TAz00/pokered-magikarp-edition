@@ -1,16 +1,16 @@
 _ViridianCityText1::
-	text "Those # BALLs"
+	text "Those KARP BALLs"
 	line "at your waist!"
-	cont "You have #MON!"
+	cont "You have MAGIKARP!"
 
 	para "It's great that"
 	line "you can carry and"
-	cont "use #MON any"
+	cont "use MAGIKARP any"
 	cont "time, anywhere!"
 	done
 
 _ViridianCityText_19122::
-	text "This #MON GYM"
+	text "This MAGIKARP GYM"
 	line "is always closed."
 
 	para "I wonder who the"
@@ -26,7 +26,7 @@ _ViridianCityText_1914d::
 	text "You want to know"
 	line "about the 2 kinds"
 	cont "of caterpillar"
-	cont "#MON?"
+	cont "MAGIKARP?"
 	done
 
 _ViridianCityText_19152::
@@ -34,9 +34,9 @@ _ViridianCityText_19152::
 	done
 
 _ViridianCityText_19157::
-	text "CATERPIE has no"
+	text "MAGIKARP has no"
 	line "poison, but"
-	cont "WEEDLE does."
+	cont "MAGIKARP does."
 
 	para "Watch out for its"
 	line "POISON STING!"
@@ -71,7 +71,7 @@ _ViridianCityText_191ca::
 	cont "off in the sun."
 
 	para "I had this dream"
-	line "about a DROWZEE"
+	line "about a MAGIKARP"
 	cont "eating my dream."
 	cont "What's this?"
 	cont "Where did this TM"
@@ -112,16 +112,16 @@ _ViridianCityText_1920a::
 
 _ViridianCityText_1920f::
 	text "I see you're using"
-	line "a #DEX."
+	line "a FishDEX."
 
 	para "When you catch a"
-	line "#MON, #DEX"
+	line "MAGIKARP, FishDEX"
 	cont "is automatically"
 	cont "updated."
 
 	para "What? Don't you"
 	line "know how to catch"
-	cont "#MON?"
+	cont "MAGIKARP?"
 
 	para "I'll show you"
 	line "how to then."
@@ -135,7 +135,7 @@ _ViridianCityText_19214::
 _ViridianCityText_19219::
 	text "First, you need"
 	line "to weaken the"
-	cont "target #MON."
+	cont "target MAGIKARP."
 	done
 
 _ViridianCityText8::
@@ -147,7 +147,7 @@ _ViridianCityText8::
 _ViridianCityText9::
 	text "TRAINER TIPS"
 
-	para "Catch #MON"
+	para "Catch MAGIKARP"
 	line "and expand your"
 	cont "collection!"
 
@@ -160,19 +160,19 @@ _ViridianCityText10::
 	text "TRAINER TIPS"
 
 	para "The battle moves"
-	line "of #MON are"
+	line "of MAGIKARP are"
 	cont "limited by their"
 	cont "POWER POINTs, PP."
 
 	para "To replenish PP,"
 	line "rest your tired"
-	cont "#MON at a"
-	cont "#MON CENTER!"
+	cont "MAGIKARP at a"
+	cont "MAGIKARP CENTER!"
 	done
 
 _ViridianCityText13::
 	text "VIRIDIAN CITY"
-	line "#MON GYM"
+	line "MAGIKARP GYM"
 	done
 
 _ViridianCityText14::

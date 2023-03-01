@@ -70,7 +70,7 @@ _Route16EndBattleText5::
 	prompt
 
 _Route16AfterBattleText5::
-	text "I like my #MON"
+	text "I like my MAGIKARP"
 	line "ferocious! They"
 	cont "tear up enemies!"
 	done
@@ -87,16 +87,16 @@ _Route16EndBattleText6::
 _Route16AfterBattleText6::
 	text "I like harassing"
 	line "people with my"
-	cont "vicious #MON!"
+	cont "vicious MAGIKARP!"
 	done
 
 _Route16Text7::
-	text "A sleeping #MON"
+	text "A sleeping MAGIKARP"
 	line "blocks the way!"
 	done
 
 _Route16Text10::
-	text "SNORLAX woke up!"
+	text "MAGIKARP woke up!"
 
 	para "It attacked in a"
 	line "grumpy rage!"
@@ -104,7 +104,7 @@ _Route16Text10::
 
 _Route16Text11::
 	text "With a big yawn,"
-	line "SNORLAX returned"
+	line "MAGIKARP returned"
 	cont "to the mountains!"
 	done
 

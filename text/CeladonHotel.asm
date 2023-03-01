@@ -1,5 +1,5 @@
 _CeladonHotelText1::
-	text "#MON? No, this"
+	text "MAGIKARP? No, this"
 	line "is a hotel for"
 	cont "people."
 

@@ -7,7 +7,7 @@ _CeruleanTrashedText_1d6ab::
 
 	para "They stole a TM"
 	line "for teaching"
-	cont "#MON how to"
+	cont "MAGIKARP how to"
 	cont "DIG holes!"
 
 	para "That cost me a"
@@ -19,7 +19,7 @@ _CeruleanTrashedText_1d6b0::
 	line "lost is lost!"
 
 	para "I decided to teach"
-	line "DIGLETT how to"
+	line "MAGIKARP how to"
 	cont "DIG without a TM!"
 	done
 

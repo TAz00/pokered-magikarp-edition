@@ -8,7 +8,7 @@
 	db 95 ; base exp
 
 	INCBIN "gfx/pokemon/front/gastly.pic", 0, 1 ; sprite dimensions
-	dw GastlyPicFront, GastlyPicBack
+	dw RhydonPicFront, RhydonPicBack
 
 	db LICK, CONFUSE_RAY, NIGHT_SHADE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate

@@ -22,34 +22,34 @@ _SilphCo5EndBattleText5::
 _SilphCo5AfterBattleText5::
 	text "Which reminds me."
 
-	para "KOFFING evolves"
-	line "into WEEZING!"
+	para "MAGIKARP evolves"
+	line "into MAGIKARP!"
 	done
 
 _SilphCo5Text9::
-	text "It's a #MON"
+	text "It's a MAGIKARP"
 	line "REPORT!"
 
-	para "#MON LAB"
-	line "created PORYGON,"
+	para "MAGIKARP LAB"
+	line "created MAGIKARP,"
 	cont "the first virtual"
-	cont "reality #MON."
+	cont "reality MAGIKARP."
 	done
 
 _SilphCo5Text10::
-	text "It's a #MON"
+	text "It's a MAGIKARP"
 	line "REPORT!"
 
-	para "Over 160 #MON"
+	para "Over 160 MAGIKARP"
 	line "techniques have"
 	cont "been confirmed."
 	done
 
 _SilphCo5Text11::
-	text "It's a #MON"
+	text "It's a MAGIKARP"
 	line "REPORT!"
 
-	para "4 #MON evolve"
+	para "4 MAGIKARP evolve"
 	line "only when traded"
 	cont "by link-cable."
 	done

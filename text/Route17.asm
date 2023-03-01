@@ -59,7 +59,7 @@ _Route17AfterBattleText4::
 	done
 
 _Route17BattleText5::
-	text "Let VOLTORB"
+	text "Let MAGIKARP"
 	line "electrify you!"
 	done
 
@@ -69,13 +69,13 @@ _Route17EndBattleText5::
 	prompt
 
 _Route17AfterBattleText5::
-	text "I got my VOLTORB"
+	text "I got my MAGIKARP"
 	line "at the abandoned"
 	cont "POWER PLANT."
 	done
 
 _Route17BattleText6::
-	text "My #MON won't"
+	text "My MAGIKARP won't"
 	line "evolve! Why?"
 	done
 
@@ -85,7 +85,7 @@ _Route17EndBattleText6::
 	prompt
 
 _Route17AfterBattleText6::
-	text "Maybe some #MON"
+	text "Maybe some MAGIKARP"
 	line "need element"
 	cont "STONEs to evolve."
 	done
@@ -157,10 +157,10 @@ _Route17Text11::
 _Route17Text12::
 	text "TRAINER TIPS"
 
-	para "All #MON are"
+	para "All MAGIKARP are"
 	line "unique."
 
-	para "Even #MON of"
+	para "Even MAGIKARP of"
 	line "the same type and"
 	cont "level grow at"
 	cont "different rates."
@@ -185,7 +185,7 @@ _Route17Text15::
 	text "It's a notice!"
 
 	para "Don't throw the"
-	line "game, throw #"
+	line "game, throw KARP"
 	cont "BALLs instead!"
 	done
 

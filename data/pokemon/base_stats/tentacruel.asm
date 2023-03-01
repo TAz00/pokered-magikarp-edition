@@ -8,7 +8,7 @@
 	db 205 ; base exp
 
 	INCBIN "gfx/pokemon/front/tentacruel.pic", 0, 1 ; sprite dimensions
-	dw TentacruelPicFront, TentacruelPicBack
+	dw BulbasaurPicFront, BulbasaurPicBack
 
 	db ACID, SUPERSONIC, WRAP, NO_MOVE ; level 1 learnset
 	db GROWTH_SLOW ; growth rate

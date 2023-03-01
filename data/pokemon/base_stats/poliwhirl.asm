@@ -8,7 +8,7 @@
 	db 131 ; base exp
 
 	INCBIN "gfx/pokemon/front/poliwhirl.pic", 0, 1 ; sprite dimensions
-	dw PoliwhirlPicFront, PoliwhirlPicBack
+	dw ArticunoPicFront, ArticunoPicBack
 
 	db BUBBLE, HYPNOSIS, WATER_GUN, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate

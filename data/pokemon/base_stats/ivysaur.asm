@@ -8,7 +8,7 @@
 	db 141 ; base exp
 
 	INCBIN "gfx/pokemon/front/ivysaur.pic", 0, 1 ; sprite dimensions
-	dw IvysaurPicFront, IvysaurPicBack
+	dw RhydonPicFront, RhydonPicBack
 
 	db TACKLE, GROWL, LEECH_SEED, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate

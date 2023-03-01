@@ -1,7 +1,7 @@
 _Route14BattleText1::
 	text "You need to use"
 	line "TMs to teach good"
-	cont "moves to #MON!"
+	cont "moves to MAGIKARP!"
 	done
 
 _Route14EndBattleText1::
@@ -11,13 +11,13 @@ _Route14EndBattleText1::
 
 _Route14AfterBattleText1::
 	text "You have some HMs"
-	line "right? #MON"
+	line "right? MAGIKARP"
 	cont "can't ever forget"
 	cont "those moves."
 	done
 
 _Route14BattleText2::
-	text "My bird #MON"
+	text "My bird MAGIKARP"
 	line "should be ready"
 	cont "for battle."
 	done
@@ -45,7 +45,7 @@ _Route14EndBattleText3::
 	prompt
 
 _Route14AfterBattleText3::
-	text "Teach #MON"
+	text "Teach MAGIKARP"
 	line "moves of the same"
 	cont "element type for"
 	cont "more power."
@@ -53,7 +53,7 @@ _Route14AfterBattleText3::
 
 _Route14BattleText4::
 	text "Have you taught"
-	line "your bird #MON"
+	line "your bird MAGIKARP"
 	cont "how to FLY?"
 	done
 
@@ -63,14 +63,14 @@ _Route14EndBattleText4::
 	prompt
 
 _Route14AfterBattleText4::
-	text "Bird #MON are"
+	text "Bird MAGIKARP are"
 	line "my true love!"
 	done
 
 _Route14BattleText5::
 	text "Have you heard of"
 	line "the legendary"
-	cont "#MON?"
+	cont "MAGIKARP?"
 	done
 
 _Route14EndBattleText5::
@@ -80,7 +80,7 @@ _Route14EndBattleText5::
 
 _Route14AfterBattleText5::
 	text "The 3 legendary"
-	line "#MON are all"
+	line "MAGIKARP are all"
 	cont "birds of prey."
 	done
 
@@ -127,7 +127,7 @@ _Route14EndBattleText8::
 	prompt
 
 _Route14AfterBattleText8::
-	text "Raising #MON"
+	text "Raising MAGIKARP"
 	line "is a drag, man."
 	done
 
@@ -143,7 +143,7 @@ _Route14EndBattleText9::
 
 _Route14AfterBattleText9::
 	text "It's cool you"
-	line "made your #MON"
+	line "made your MAGIKARP"
 	cont "so strong!"
 
 	para "Might is right!"
@@ -151,7 +151,7 @@ _Route14AfterBattleText9::
 	done
 
 _Route14BattleText10::
-	text "#MON fight?"
+	text "MAGIKARP fight?"
 	line "Cool! Rumble!"
 	done
 

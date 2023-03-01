@@ -119,7 +119,7 @@ _YeahText::
 	text_end
 
 _DexSeenOwnedText::
-	text "#DEX   Seen:@"
+	text "FishDEX   Seen:@"
 	text_decimal wDexRatingNumMonsSeen, 1, 3
 	text_start
 	line "         Owned:@"
@@ -127,13 +127,13 @@ _DexSeenOwnedText::
 	text_end
 
 _DexRatingText::
-	text "#DEX Rating<COLON>"
+	text "FishDEX Rating<COLON>"
 	done
 
 _GymStatueText1::
 	text_ram wGymCityName
 	text_start
-	line "#MON GYM"
+	line "MAGIKARP GYM"
 	cont "LEADER: @"
 	text_ram wGymLeaderName
 	text_start
@@ -145,7 +145,7 @@ _GymStatueText1::
 _GymStatueText2::
 	text_ram wGymCityName
 	text_start
-	line "#MON GYM"
+	line "MAGIKARP GYM"
 	cont "LEADER: @"
 	text_ram wGymLeaderName
 	text_start
@@ -156,17 +156,17 @@ _GymStatueText2::
 	done
 
 _ViridianCityPokecenterGuyText::
-	text "#MON CENTERs"
+	text "MAGIKARP CENTERs"
 	line "heal your tired,"
 	cont "hurt or fainted"
-	cont "#MON!"
+	cont "MAGIKARP!"
 	done
 
 _PewterCityPokecenterGuyText::
 	text "Yawn!"
 
 	para "When JIGGLYPUFF"
-	line "sings, #MON"
+	line "sings, MAGIKARP"
 	cont "get drowsy..."
 
 	para "...Me too..."
@@ -175,7 +175,7 @@ _PewterCityPokecenterGuyText::
 
 _CeruleanPokecenterGuyText::
 	text "BILL has lots of"
-	line "#MON!"
+	line "MAGIKARP!"
 
 	para "He collects rare"
 	line "ones too!"
@@ -191,7 +191,7 @@ _LavenderPokecenterGuyText::
 
 _MtMoonPokecenterBenchGuyText::
 	text "If you have too"
-	line "many #MON, you"
+	line "many MAGIKARP, you"
 	cont "should store them"
 	cont "via PC!"
 	done
@@ -204,7 +204,7 @@ _RockTunnelPokecenterGuyText::
 
 _UnusedBenchGuyText1::
 	text "I wish I could"
-	line "catch #MON."
+	line "catch MAGIKARP."
 	done
 
 _UnusedBenchGuyText2::
@@ -221,17 +221,17 @@ _UnusedBenchGuyText3::
 _VermilionPokecenterGuyText::
 	text "It is true that a"
 	line "higher level"
-	cont "#MON will be"
+	cont "MAGIKARP will be"
 	cont "more powerful..."
 
-	para "But, all #MON"
+	para "But, all MAGIKARP"
 	line "will have weak"
 	cont "points against"
 	cont "specific types."
 
 	para "So, there is no"
 	line "universally"
-	cont "strong #MON."
+	cont "strong MAGIKARP."
 	done
 
 _CeladonCityPokecenterGuyText::
@@ -242,15 +242,15 @@ _CeladonCityPokecenterGuyText::
 
 _FuchsiaCityPokecenterGuyText::
 	text "If you're studying "
-	line "#MON, visit"
+	line "MAGIKARP, visit"
 	cont "the SAFARI ZONE."
 
 	para "It has all sorts"
-	line "of rare #MON."
+	line "of rare MAGIKARP."
 	done
 
 _CinnabarPokecenterGuyText::
-	text "#MON can still"
+	text "MAGIKARP can still"
 	line "learn techniques"
 	cont "after canceling"
 	cont "evolution."
@@ -281,7 +281,7 @@ _CeladonCityHotelText::
 
 _BookcaseText::
 	text "Crammed full of"
-	line "#MON books!"
+	line "MAGIKARP books!"
 	done
 
 _NewBicycleText::
@@ -301,7 +301,7 @@ _SaveOptionText::
 	done
 
 _StrengthsAndWeaknessesText::
-	text "All #MON types"
+	text "All MAGIKARP types"
 	line "have strong and"
 	cont "weak points"
 	cont "against others."
@@ -319,7 +319,7 @@ _GameOverText::
 	done
 
 _CinnabarGymQuizIntroText::
-	text "#MON Quiz!"
+	text "MAGIKARP Quiz!"
 
 	para "Get it right and"
 	line "the door opens to"
@@ -330,7 +330,7 @@ _CinnabarGymQuizIntroText::
 
 	para "If you want to"
 	line "conserve your"
-	cont "#MON for the"
+	cont "MAGIKARP for the"
 	cont "GYM LEADER..."
 
 	para "Then get it right!"
@@ -344,7 +344,7 @@ _CinnabarQuizQuestionsText1::
 
 _CinnabarQuizQuestionsText2::
 	text "There are 9"
-	line "certified #MON"
+	line "certified MAGIKARP"
 	cont "LEAGUE BADGEs?"
 	done
 
@@ -357,11 +357,11 @@ _CinnabarQuizQuestionsText4::
 	text "Are thunder moves"
 	line "effective against"
 	cont "ground element-"
-	cont "type #MON?"
+	cont "type MAGIKARP?"
 	done
 
 _CinnabarQuizQuestionsText5::
-	text "#MON of the"
+	text "MAGIKARP of the"
 	line "same kind and"
 	cont "level are not"
 	cont "identical?"
@@ -384,11 +384,11 @@ _CinnabarGymQuizIncorrectText::
 	prompt
 
 _MagazinesText::
-	text "#MON magazines!"
+	text "MAGIKARP magazines!"
 
-	para "#MON notebooks!"
+	para "MAGIKARP notebooks!"
 
-	para "#MON graphs!"
+	para "MAGIKARP graphs!"
 	done
 
 _BillsHouseMonitorText::
@@ -405,11 +405,11 @@ _BillsHouseInitiatedText::
 
 _BillsHousePokemonListText1::
 	text "BILL's favorite"
-	line "#MON list!"
+	line "MAGIKARP list!"
 	prompt
 
 _BillsHousePokemonListText2::
-	text "Which #MON do"
+	text "Which MAGIKARP do"
 	line "you want to see?"
 	done
 
@@ -420,19 +420,19 @@ _OakLabEmailText::
 	para "..."
 
 	para "Calling all"
-	line "#MON trainers!"
+	line "MAGIKARP trainers!"
 
 	para "The elite trainers"
-	line "of #MON LEAGUE"
+	line "of MAGIKARP LEAGUE"
 	cont "are ready to take"
 	cont "on all comers!"
 
 	para "Bring your best"
-	line "#MON and see"
+	line "MAGIKARP and see"
 	cont "how you rate as a"
 	cont "trainer!"
 
-	para "#MON LEAGUE HQ"
+	para "MAGIKARP LEAGUE HQ"
 	line "INDIGO PLATEAU"
 
 	para "PS: PROF.OAK,"
@@ -502,21 +502,21 @@ _ViridianSchoolNotebookText1::
 
 	para "# BALLs are"
 	line "used to catch"
-	cont "#MON."
+	cont "MAGIKARP."
 
-	para "Up to 6 #MON"
+	para "Up to 6 MAGIKARP"
 	line "can be carried."
 
 	para "People who raise"
-	line "and make #MON"
+	line "and make MAGIKARP"
 	cont "fight are called"
-	cont "#MON trainers."
+	cont "MAGIKARP trainers."
 	prompt
 
 _ViridianSchoolNotebookText2::
 	text "Second page..."
 
-	para "A healthy #MON"
+	para "A healthy MAGIKARP"
 	line "may be hard to"
 	cont "catch, so weaken"
 	cont "it first!"
@@ -529,30 +529,30 @@ _ViridianSchoolNotebookText2::
 _ViridianSchoolNotebookText3::
 	text "Third page..."
 
-	para "#MON trainers"
+	para "MAGIKARP trainers"
 	line "seek others to"
-	cont "engage in #MON"
+	cont "engage in MAGIKARP"
 	cont "fights."
 
 	para "Battles are"
 	line "constantly fought"
-	cont "at #MON GYMs."
+	cont "at MAGIKARP GYMs."
 	prompt
 
 _ViridianSchoolNotebookText4::
 	text "Fourth page..."
 
 	para "The goal for"
-	line "#MON trainers"
+	line "MAGIKARP trainers"
 	cont "is to beat the "
-	cont "top 8 #MON"
+	cont "top 8 MAGIKARP"
 	cont "GYM LEADERs."
 
 	para "Do so to earn the"
 	line "right to face..."
 
 	para "The ELITE FOUR of"
-	line "#MON LEAGUE!"
+	line "MAGIKARP LEAGUE!"
 	prompt
 
 _EnemiesOnEverySideText::
@@ -571,7 +571,7 @@ _FightingDojoText::
 
 _IndigoPlateauHQText::
 	text "INDIGO PLATEAU"
-	line "#MON LEAGUE HQ"
+	line "MAGIKARP LEAGUE HQ"
 	done
 
 _RedBedroomSNESText::
@@ -593,13 +593,13 @@ _Route15UpstairsBinocularsText::
 _AerodactylFossilText::
 	text "AERODACTYL Fossil"
 	line "A primitive and"
-	cont "rare #MON."
+	cont "rare MAGIKARP."
 	done
 
 _KabutopsFossilText::
 	text "KABUTOPS Fossil"
 	line "A primitive and"
-	cont "rare #MON."
+	cont "rare MAGIKARP."
 	done
 
 _LinkCableHelpText1::
@@ -621,7 +621,7 @@ _LinkCableInfoText1::
 	cont "GAME BOY, talk to"
 	cont "the attendant on"
 	cont "the right in any"
-	cont "#MON CENTER."
+	cont "MAGIKARP CENTER."
 	prompt
 
 _LinkCableInfoText2::
@@ -633,12 +633,12 @@ _LinkCableInfoText2::
 _LinkCableInfoText3::
 	text "TRADE CENTER is"
 	line "used for trading"
-	cont "#MON."
+	cont "MAGIKARP."
 	prompt
 
 _ViridianSchoolBlackboardText1::
 	text "The blackboard"
-	line "describes #MON"
+	line "describes MAGIKARP"
 	cont "STATUS changes"
 	cont "during battles."
 	prompt
@@ -649,11 +649,11 @@ _ViridianSchoolBlackboardText2::
 	done
 
 _ViridianBlackboardSleepText::
-	text "A #MON can't"
+	text "A MAGIKARP can't"
 	line "attack if it's"
 	cont "asleep!"
 
-	para "#MON will stay"
+	para "MAGIKARP will stay"
 	line "asleep even after"
 	cont "battles."
 
@@ -663,7 +663,7 @@ _ViridianBlackboardSleepText::
 
 _ViridianBlackboardPoisonText::
 	text "When poisoned, a"
-	line "#MON's health"
+	line "MAGIKARP's health"
 	cont "steadily drops."
 
 	para "Poison lingers"
@@ -675,7 +675,7 @@ _ViridianBlackboardPoisonText::
 
 _ViridianBlackboardPrlzText::
 	text "Paralysis could"
-	line "make #MON"
+	line "make MAGIKARP"
 	cont "moves misfire!"
 
 	para "Paralysis remains"
@@ -700,7 +700,7 @@ _ViridianBlackboardBurnText::
 
 _ViridianBlackboardFrozenText::
 	text "If frozen, a"
-	line "#MON becomes"
+	line "MAGIKARP becomes"
 	cont "totally immobile!"
 
 	para "It stays frozen"
@@ -708,7 +708,7 @@ _ViridianBlackboardFrozenText::
 	cont "battle ends."
 
 	para "Use ICE HEAL to"
-	line "thaw out #MON!"
+	line "thaw out MAGIKARP!"
 	prompt
 
 _VermilionGymTrashText::
@@ -788,18 +788,18 @@ _IndigoPlateauStatuesText1::
 _IndigoPlateauStatuesText2::
 	text "The ultimate goal"
 	line "of trainers!"
-	cont "#MON LEAGUE HQ"
+	cont "MAGIKARP LEAGUE HQ"
 	done
 
 _IndigoPlateauStatuesText3::
 	text "The highest"
-	line "#MON authority"
-	cont "#MON LEAGUE HQ"
+	line "MAGIKARP authority"
+	cont "MAGIKARP LEAGUE HQ"
 	done
 
 _PokemonBooksText::
 	text "Crammed full of"
-	line "#MON books!"
+	line "MAGIKARP books!"
 	done
 
 _DiglettSculptureText::
@@ -818,7 +818,7 @@ _TownMapText::
 
 _PokemonStuffText::
 	text "Wow! Tons of"
-	line "#MON stuff!"
+	line "MAGIKARP stuff!"
 	done
 
 _OutOfSafariBallsText::
@@ -885,7 +885,7 @@ _PlayerMonFaintedText::
 	prompt
 
 _UseNextMonText::
-	text "Use next #MON?"
+	text "Use next MAGIKARP?"
 	done
 
 _Rival1WinText::
@@ -895,7 +895,7 @@ _Rival1WinText::
 
 _PlayerBlackedOutText2::
 	text "<PLAYER> is out of"
-	line "useable #MON!"
+	line "useable MAGIKARP!"
 
 	para "<PLAYER> blacked"
 	line "out!"
@@ -917,7 +917,7 @@ _TrainerAboutToUseText::
 	text "!"
 
 	para "Will <PLAYER>"
-	line "change #MON?"
+	line "change MAGIKARP?"
 	done
 
 _TrainerSentOutText::
@@ -1358,26 +1358,26 @@ _WhichFloorText::
 	done
 
 _PartyMenuNormalText::
-	text "Choose a #MON."
+	text "Choose a MAGIKARP."
 	done
 
 _PartyMenuItemUseText::
 	text "Use item on which"
-	line "#MON?"
+	line "MAGIKARP?"
 	done
 
 _PartyMenuBattleText::
 	text "Bring out which"
-	line "#MON?"
+	line "MAGIKARP?"
 	done
 
 _PartyMenuUseTMText::
 	text "Use TM on which"
-	line "#MON?"
+	line "MAGIKARP?"
 	done
 
 _PartyMenuSwapMonText::
-	text "Move #MON"
+	text "Move MAGIKARP"
 	line "where?"
 	done
 
@@ -1448,7 +1448,7 @@ _AccessedBillsPCText::
 	text "Accessed BILL's"
 	line "PC."
 
-	para "Accessed #MON"
+	para "Accessed MAGIKARP"
 	line "Storage System."
 	prompt
 
@@ -1456,7 +1456,7 @@ _AccessedSomeonesPCText::
 	text "Accessed someone's"
 	line "PC."
 
-	para "Accessed #MON"
+	para "Accessed MAGIKARP"
 	line "Storage System."
 	prompt
 
@@ -1538,7 +1538,7 @@ _TossHowManyText::
 	done
 
 _AccessedHoFPCText::
-	text "Accessed #MON"
+	text "Accessed MAGIKARP"
 	line "LEAGUE's site."
 
 	para "Accessed the HALL"
@@ -1555,7 +1555,7 @@ _WhatText::
 
 _DepositWhichMonText::
 	text "Deposit which"
-	line "#MON?"
+	line "MAGIKARP?"
 	done
 
 _MonWasStoredText::
@@ -1568,12 +1568,12 @@ _MonWasStoredText::
 
 _CantDepositLastMonText::
 	text "You can't deposit"
-	line "the last #MON!"
+	line "the last MAGIKARP!"
 	prompt
 
 _BoxFullText::
 	text "Oops! This Box is"
-	line "full of #MON."
+	line "full of MAGIKARP."
 	prompt
 
 _MonIsTakenOutText::
@@ -1587,20 +1587,20 @@ _MonIsTakenOutText::
 
 _NoMonText::
 	text "What? There are"
-	line "no #MON here!"
+	line "no MAGIKARP here!"
 	prompt
 
 _CantTakeMonText::
 	text "You can't take"
-	line "any more #MON."
+	line "any more MAGIKARP."
 
-	para "Deposit #MON"
+	para "Deposit MAGIKARP"
 	line "first."
 	prompt
 
 _ReleaseWhichMonText::
 	text "Release which"
-	line "#MON?"
+	line "MAGIKARP?"
 	done
 
 _OnceReleasedText::
@@ -1662,7 +1662,7 @@ _OhFineThenText::
 
 _GetDexRatedText::
 	text "Want to get your"
-	line "#DEX rated?"
+	line "FishDEX rated?"
 	done
 
 _ClosedOaksPCText::
@@ -1674,7 +1674,7 @@ _AccessedOaksPCText::
 	text "Accessed PROF."
 	line "OAK's PC."
 
-	para "Accessed #DEX"
+	para "Accessed FishDEX"
 	line "Rating System."
 	prompt
 
@@ -1696,31 +1696,31 @@ _LinkCanceledText::
 _OakSpeechText1::
 	text "Hello there!"
 	line "Welcome to the"
-	cont "world of #MON!"
+	cont "world of MAGIKARP!"
 
 	para "My name is OAK!"
 	line "People call me"
-	cont "the #MON PROF!"
+	cont "the MAGIKARP PROF!"
 	prompt
 
 _OakSpeechText2A::
 	text "This world is"
 	line "inhabited by"
 	cont "creatures called"
-	cont "#MON!@"
+	cont "MAGIKARP!@"
 	text_end
 
 _OakSpeechText2B::
 	text_start
 
 	para "For some people,"
-	line "#MON are"
+	line "MAGIKARP are"
 	cont "pets. Others use"
 	cont "them for fights."
 
 	para "Myself..."
 
-	para "I study #MON"
+	para "I study MAGIKARP"
 	line "as a profession."
 	prompt
 
@@ -1743,12 +1743,12 @@ _OakSpeechText3::
 	text "<PLAYER>!"
 
 	para "Your very own"
-	line "#MON legend is"
+	line "MAGIKARP legend is"
 	cont "about to unfold!"
 
 	para "A world of dreams"
 	line "and adventures"
-	cont "with #MON"
+	cont "with MAGIKARP"
 	cont "awaits! Let's go!"
 	done
 

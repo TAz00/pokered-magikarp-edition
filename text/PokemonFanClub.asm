@@ -1,18 +1,18 @@
 PikachuFanText::
 	text "Won't you admire"
-	line "my PIKACHU's"
+	line "my MAGIKARP's"
 	cont "adorable tail?"
 	done
 
 PikachuFanBetterText::
-	text "Humph! My PIKACHU"
+	text "Humph! My MAGIKARP"
 	line "is twice as cute"
 	cont "as that one!"
 	done
 
 SeelFanText::
 	text "I just love my"
-	line "SEEL!"
+	line "MAGIKARP!"
 
 	para "It squeals when I"
 	line "hug it!"
@@ -21,13 +21,13 @@ SeelFanText::
 SeelFanBetterText::
 	text "Oh dear!"
 
-	para "My SEEL is far"
+	para "My MAGIKARP is far"
 	line "more attractive!"
 	done
 
 FanClubPikachuText::
 	text "PIKACHU: Chu!"
-	line "Pikachu!"
+	line "MAGIKARP!"
 	done
 
 FanClubSeelText::
@@ -36,20 +36,20 @@ FanClubSeelText::
 
 FanClubMeetChairText::
 	text "I chair the"
-	line "#MON Fan Club!"
+	line "MAGIKARP Fan Club!"
 
 	para "I have collected"
-	line "over 100 #MON!"
+	line "over 100 MAGIKARP!"
 
 	para "I'm very fussy"
 	line "when it comes to"
-	cont "#MON!"
+	cont "MAGIKARP!"
 
 	para "So..."
 
 	para "Did you come"
 	line "visit to hear"
-	cont "about my #MON?"
+	cont "about my MAGIKARP?"
 	done
 
 FanClubChairStoryText::
@@ -95,7 +95,7 @@ ExplainBikeVoucherText::
 	line "a BICYCLE!"
 
 	para "Don't worry, my"
-	line "FEAROW will FLY"
+	line "MAGIKARP will FLY"
 	cont "me anywhere!"
 
 	para "So, I don't need a"
@@ -116,7 +116,7 @@ FanClubChairFinalText::
 
 	para "Did you come see"
 	line "me about my"
-	cont "#MON again?"
+	cont "MAGIKARP again?"
 
 	para "No? Too bad!"
 	done
@@ -129,7 +129,7 @@ FanClubBagFullText::
 _FanClubText6::
 	text "Our Chairman is"
 	line "very vocal about"
-	cont "#MON."
+	cont "MAGIKARP."
 	done
 
 _FanClubText7::

@@ -8,7 +8,7 @@
 	db 58 ; base exp
 
 	INCBIN "gfx/pokemon/front/spearow.pic", 0, 1 ; sprite dimensions
-	dw SpearowPicFront, SpearowPicBack
+	dw RhydonPicFront, RhydonPicBack
 
 	db PECK, GROWL, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

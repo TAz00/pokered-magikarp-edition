@@ -8,7 +8,7 @@
 	db 59 ; base exp
 
 	INCBIN "gfx/pokemon/front/nidoranf.pic", 0, 1 ; sprite dimensions
-	dw NidoranFPicFront, NidoranFPicBack
+	dw RhydonPicFront, RhydonPicBack
 
 	db GROWL, TACKLE, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate

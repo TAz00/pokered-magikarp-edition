@@ -1,17 +1,17 @@
 _Route12Text1::
-	text "A sleeping #MON"
+	text "A sleeping MAGIKARP"
 	line "blocks the way!"
 	done
 
 _Route12Text13::
-	text "SNORLAX woke up!"
+	text "MAGIKARP woke up!"
 
 	para "It attacked in a"
 	line "grumpy rage!"
 	done
 
 _Route12Text14::
-	text "SNORLAX calmed"
+	text "MAGIKARP calmed"
 	line "down! With a big"
 	cont "yawn, it returned"
 	cont "to the mountains!"
@@ -46,7 +46,7 @@ _Route12EndBattleText2::
 _Route12AfterBattleText2::
 	text "With a better ROD,"
 	line "I could catch"
-	cont "better #MON!"
+	cont "better MAGIKARP!"
 	done
 
 _Route12BattleText3::
@@ -60,7 +60,7 @@ _Route12EndBattleText3::
 
 _Route12AfterBattleText3::
 	text "I could have made"
-	line "my #MON evolve"
+	line "my MAGIKARP evolve"
 	cont "with MOON STONE!"
 	done
 
@@ -77,12 +77,12 @@ _Route12AfterBattleText4::
 	text "Water conducts"
 	line "electricity, so"
 	cont "you should zap"
-	cont "sea #MON!"
+	cont "sea MAGIKARP!"
 	done
 
 _Route12BattleText5::
 	text "The FISHING FOOL"
-	line "vs. #MON KID!"
+	line "vs. MAGIKARP KID!"
 	done
 
 _Route12EndBattleText5::
@@ -92,7 +92,7 @@ _Route12EndBattleText5::
 
 _Route12AfterBattleText5::
 	text "You beat me at"
-	line "#MON, but I'm"
+	line "MAGIKARP, but I'm"
 	cont "good at fishing!"
 	done
 

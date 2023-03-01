@@ -1,7 +1,7 @@
 _FuchsiaCityText1::
 	text "Did you try the"
 	line "SAFARI GAME? Some"
-	cont "#MON can only"
+	cont "MAGIKARP can only"
 	cont "be caught there."
 	done
 
@@ -12,7 +12,7 @@ _FuchsiaCityText2::
 
 	para "Out back is the"
 	line "SAFARI GAME for"
-	cont "catching #MON."
+	cont "catching MAGIKARP."
 	done
 
 _FuchsiaCityText3::
@@ -24,7 +24,7 @@ _FuchsiaCityText3::
 _FuchsiaCityText4::
 	text "That item ball in"
 	line "there is really a"
-	cont "#MON."
+	cont "MAGIKARP."
 	done
 
 _FuchsiaCityText5::
@@ -39,7 +39,7 @@ _FuchsiaCityText11::
 
 _FuchsiaCityText13::
 	text "SAFARI GAME"
-	line "#MON-U-CATCH!"
+	line "MAGIKARP-U-CATCH!"
 	done
 
 _FuchsiaCityText16::
@@ -48,13 +48,13 @@ _FuchsiaCityText16::
 	done
 
 _FuchsiaCityText17::
-	text "#MON PARADISE"
+	text "MAGIKARP PARADISE"
 	line "SAFARI ZONE"
 	done
 
 _FuchsiaCityText18::
 	text "FUCHSIA CITY"
-	line "#MON GYM"
+	line "MAGIKARP GYM"
 	cont "LEADER: KOGA"
 
 	para "The Poisonous"
@@ -62,54 +62,54 @@ _FuchsiaCityText18::
 	done
 
 _FuchsiaCityChanseyText::
-	text "Name: CHANSEY"
+	text "Name: MAGIKARP"
 
 	para "Catching one is"
 	line "all up to chance."
 	prompt
 
 _FuchsiaCityVoltorbText::
-	text "Name: VOLTORB"
+	text "Name: MAGIKARP"
 
 	para "The very image of"
-	line "a # BALL."
+	line "a KARP BALL."
 	prompt
 
 _FuchsiaCityKangaskhanText::
-	text "Name: KANGASKHAN"
+	text "Name: MAGIKARP"
 
-	para "A maternal #MON"
+	para "A maternal MAGIKARP"
 	line "that raises its"
 	cont "young in a pouch"
 	cont "on its belly."
 	prompt
 
 _FuchsiaCitySlowpokeText::
-	text "Name: SLOWPOKE"
+	text "Name: MAGIKARP"
 
 	para "Friendly and very"
 	line "slow moving."
 	prompt
 
 _FuchsiaCityLaprasText::
-	text "Name: LAPRAS"
+	text "Name: MAGIKARP"
 
 	para "A.K.A. the king"
 	line "of the seas."
 	prompt
 
 _FuchsiaCityOmanyteText::
-	text "Name: OMANYTE"
+	text "Name: MAGIKARP"
 
-	para "A #MON that"
+	para "A MAGIKARP that"
 	line "was resurrected"
 	cont "from a fossil."
 	prompt
 
 _FuchsiaCityKabutoText::
-	text "Name: KABUTO"
+	text "Name: MAGIKARP"
 
-	para "A #MON that"
+	para "A MAGIKARP that"
 	line "was resurrected"
 	cont "from a fossil."
 	prompt

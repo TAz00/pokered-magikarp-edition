@@ -9,7 +9,7 @@ _CeladonMart4Text3::
 	line "useful."
 
 	para "You can run from"
-	line "wild #MON by"
+	line "wild MAGIKARP by"
 	cont "distracting them"
 	cont "with a # DOLL!"
 	done

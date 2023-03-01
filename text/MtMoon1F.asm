@@ -54,12 +54,12 @@ _MtMoon1BattleText5::
 
 _MtMoon1EndBattleText5::
 	text "My"
-	line "#MON won't do!"
+	line "MAGIKARP won't do!"
 	prompt
 
 _MtMoon1AfterBattleText5::
 	text "I have to find"
-	line "stronger #MON."
+	line "stronger MAGIKARP."
 	done
 
 _MtMoon1BattleText6::
@@ -107,13 +107,13 @@ _MtMoon1EndBattleText8::
 	prompt
 
 _MtMoon1AfterBattleText8::
-	text "ZUBAT is tough!"
+	text "MAGIKARP is tough!"
 	line "But, it can be"
 	cont "useful if you"
 	cont "catch one."
 	done
 
 _MtMoon1Text14::
-	text "Beware! ZUBAT is"
+	text "Beware! MAGIKARP is"
 	line "a blood sucker!"
 	done

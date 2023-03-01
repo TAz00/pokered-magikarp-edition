@@ -8,7 +8,7 @@
 	db 175 ; base exp
 
 	INCBIN "gfx/pokemon/front/kangaskhan.pic", 0, 1 ; sprite dimensions
-	dw KangaskhanPicFront, KangaskhanPicBack
+	dw RhydonPicFront, RhydonPicBack
 
 	db COMET_PUNCH, RAGE, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

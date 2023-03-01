@@ -8,7 +8,7 @@
 	db 161 ; base exp
 
 	INCBIN "gfx/pokemon/front/magneton.pic", 0, 1 ; sprite dimensions
-	dw MagnetonPicFront, MagnetonPicBack
+	dw GrowlithePicFront, GrowlithePicBack
 
 	db TACKLE, SONICBOOM, THUNDERSHOCK, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

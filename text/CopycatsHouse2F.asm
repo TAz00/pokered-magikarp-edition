@@ -1,6 +1,6 @@
 _CopycatsHouse2FText_5ccd4::
 	text "<PLAYER>: Hi! Do"
-	line "you like #MON?"
+	line "you like MAGIKARP?"
 
 	para "<PLAYER>: Uh no, I"
 	line "just asked you."
@@ -40,7 +40,7 @@ _TM31ExplanationText1::
 	line "favorite, MIMIC!"
 
 	para "Use it on a good"
-	line "#MON!@"
+	line "MAGIKARP!@"
 	text_end
 
 _TM31ExplanationText2::
@@ -73,7 +73,7 @@ _CopycatsHouse2FText2::
 
 _CopycatsHouse2FText3::
 	text "This is a rare"
-	line "#MON! Huh?"
+	line "MAGIKARP! Huh?"
 	cont "It's only a doll!"
 	done
 
@@ -91,8 +91,8 @@ _CopycatsHouse2FText_5cd17::
 	para "Skill: Mimicry!"
 	line "Hobby: Collecting"
 	cont "dolls!"
-	cont "Favorite #MON:"
-	cont "CLEFAIRY!"
+	cont "Favorite MAGIKARP:"
+	cont "MAGIKARP!"
 	done
 
 _CopycatsHouse2FText_5cd1c::

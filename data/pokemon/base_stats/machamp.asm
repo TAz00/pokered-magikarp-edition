@@ -8,7 +8,7 @@
 	db 193 ; base exp
 
 	INCBIN "gfx/pokemon/front/machamp.pic", 0, 1 ; sprite dimensions
-	dw MachampPicFront, MachampPicBack
+	dw DodrioPicFront, DodrioPicBack
 
 	db KARATE_CHOP, LOW_KICK, LEER, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate

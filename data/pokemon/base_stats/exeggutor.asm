@@ -8,7 +8,7 @@
 	db 212 ; base exp
 
 	INCBIN "gfx/pokemon/front/exeggutor.pic", 0, 1 ; sprite dimensions
-	dw ExeggutorPicFront, ExeggutorPicBack
+	dw RhydonPicFront, RhydonPicBack
 
 	db BARRAGE, HYPNOSIS, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_SLOW ; growth rate

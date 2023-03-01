@@ -8,7 +8,7 @@
 	db 149 ; base exp
 
 	INCBIN "gfx/pokemon/front/primeape.pic", 0, 1 ; sprite dimensions
-	dw PrimeapePicFront, PrimeapePicBack
+	dw DodrioPicFront, DodrioPicBack
 
 	db SCRATCH, LEER, KARATE_CHOP, FURY_SWIPES ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

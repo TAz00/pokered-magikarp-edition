@@ -8,7 +8,7 @@ _BrockPreBattleText::
 	cont "determination!"
 
 	para "That's why my"
-	line "#MON are all"
+	line "MAGIKARP are all"
 	cont "the rock-type!"
 
 	para "Do you still want"

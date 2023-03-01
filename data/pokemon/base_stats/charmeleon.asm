@@ -8,7 +8,7 @@
 	db 142 ; base exp
 
 	INCBIN "gfx/pokemon/front/charmeleon.pic", 0, 1 ; sprite dimensions
-	dw CharmeleonPicFront, CharmeleonPicBack
+	dw BulbasaurPicFront, BulbasaurPicBack
 
 	db SCRATCH, GROWL, EMBER, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate

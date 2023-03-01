@@ -8,7 +8,7 @@
 	db 65 ; base exp
 
 	INCBIN "gfx/pokemon/front/charmander.pic", 0, 1 ; sprite dimensions
-	dw CharmanderPicFront, CharmanderPicBack
+	dw BulbasaurPicFront, BulbasaurPicBack
 
 	db SCRATCH, GROWL, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate

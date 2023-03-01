@@ -9,7 +9,7 @@ _Route11AfterBattleText9::
 	done
 
 _Route11BattleText10::
-	text "My #MON should"
+	text "My MAGIKARP should"
 	line "be ready by now!"
 	done
 

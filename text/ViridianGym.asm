@@ -36,7 +36,7 @@ _GiovanniPostBattleAdviceText::
 
 	para "I will dedicate my"
 	line "life to the study"
-	cont "of #MON!"
+	cont "of MAGIKARP!"
 
 	para "Let us meet again"
 	line "some day!"
@@ -45,19 +45,19 @@ _GiovanniPostBattleAdviceText::
 
 _GiovanniEarthBadgeInfoText::
 	text "The EARTHBADGE"
-	line "makes #MON of"
+	line "makes MAGIKARP of"
 	cont "any level obey!"
 
 	para "It is evidence of"
 	line "your mastery as a"
-	cont "#MON trainer!"
+	cont "MAGIKARP trainer!"
 
 	para "With it, you can"
-	line "enter the #MON"
+	line "enter the MAGIKARP"
 	cont "LEAGUE!"
 
 	para "It is my gift for"
-	line "your #MON"
+	line "your MAGIKARP"
 	cont "LEAGUE challenge!"
 	done
 
@@ -71,7 +71,7 @@ _TM27ExplanationText::
 
 	para "TM27 is FISSURE!"
 	line "It will take out"
-	cont "#MON with just"
+	cont "MAGIKARP with just"
 	cont "one hit!"
 
 	para "I made it when I"
@@ -117,7 +117,7 @@ _ViridianGymAfterBattleText2::
 	done
 
 _ViridianGymBattleText3::
-	text "#MON and I, we"
+	text "MAGIKARP and I, we"
 	line "make wonderful"
 	cont "music together!"
 	done
@@ -144,7 +144,7 @@ _ViridianGymEndBattleText4::
 	prompt
 
 _ViridianGymAfterBattleText4::
-	text "If my #MON"
+	text "If my MAGIKARP"
 	line "were as good at"
 	cont "Karate as I..."
 	done
@@ -175,13 +175,13 @@ _ViridianGymEndBattleText6::
 	prompt
 
 _ViridianGymAfterBattleText6::
-	text "#MON LEAGUE?"
+	text "MAGIKARP LEAGUE?"
 	line "You? Don't get"
 	cont "cocky!"
 	done
 
 _ViridianGymBattleText7::
-	text "Your #MON will"
+	text "Your MAGIKARP will"
 	line "cower at the"
 	cont "crack of my whip!"
 	done
@@ -210,7 +210,7 @@ _ViridianGymEndBattleText8::
 
 _ViridianGymAfterBattleText8::
 	text "You can go onto"
-	line "#MON LEAGUE"
+	line "MAGIKARP LEAGUE"
 	cont "only by defeating"
 	cont "our GYM LEADER!"
 	done
@@ -230,7 +230,7 @@ _ViridianGymGuidePreBattleText::
 	para "I heard that the"
 	line "trainers here"
 	cont "like ground-type"
-	cont "#MON!"
+	cont "MAGIKARP!"
 	done
 
 _ViridianGymGuidePostBattleText::

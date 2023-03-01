@@ -24,12 +24,12 @@ _CinnabarIslandText3::
 	done
 
 _CinnabarIslandText6::
-	text "#MON LAB"
+	text "MAGIKARP LAB"
 	done
 
 _CinnabarIslandText7::
 	text "CINNABAR ISLAND"
-	line "#MON GYM"
+	line "MAGIKARP GYM"
 	cont "LEADER: BLAINE"
 
 	para "The Hot-Headed"

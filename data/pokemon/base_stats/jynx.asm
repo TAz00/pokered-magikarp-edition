@@ -8,7 +8,7 @@
 	db 137 ; base exp
 
 	INCBIN "gfx/pokemon/front/jynx.pic", 0, 1 ; sprite dimensions
-	dw JynxPicFront, JynxPicBack
+	dw GrowlithePicFront, GrowlithePicBack
 
 	db POUND, LOVELY_KISS, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

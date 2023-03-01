@@ -9,23 +9,23 @@ _DayCareComeAgainText::
 
 _DayCareNoRoomForMonText::
 	text "You have no room"
-	line "for this #MON!"
+	line "for this MAGIKARP!"
 	done
 
 _DayCareOnlyHaveOneMonText::
 	text "You only have one"
-	line "#MON with you."
+	line "MAGIKARP with you."
 	done
 
 _DayCareCantAcceptMonWithHMText::
 	text "I can't accept a"
-	line "#MON that"
+	line "MAGIKARP that"
 	cont "knows an HM move."
 	done
 
 _DayCareHeresYourMonText::
 	text "Thank you! Here's"
-	line "your #MON!"
+	line "your MAGIKARP!"
 	prompt
 
 _DayCareNotEnoughMoneyText::

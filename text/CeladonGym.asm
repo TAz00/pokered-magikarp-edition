@@ -13,7 +13,7 @@ _ErikaPreBattleText::
 
 	para "I teach the art of"
 	line "flower arranging."
-	cont "My #MON are of"
+	cont "My MAGIKARP are of"
 	cont "the grass-type."
 
 	para "Oh, I'm sorry, I"
@@ -38,22 +38,22 @@ _ReceivedRainbowBadgeText::
 
 _ErikaPostBattleAdviceText::
 	text "You are cataloging"
-	line "#MON? I must"
+	line "MAGIKARP? I must"
 	cont "say I'm impressed."
 
 	para "I would never"
-	line "collect #MON"
+	line "collect MAGIKARP"
 	cont "if they were"
 	cont "unattractive."
 	done
 
 _ErikaRainbowBadgeInfoText::
 	text "The RAINBOWBADGE"
-	line "will make #MON"
+	line "will make MAGIKARP"
 	cont "up to L50 obey."
 
 	para "It also allows"
-	line "#MON to use"
+	line "MAGIKARP to use"
 	cont "STRENGTH in and"
 	cont "out of battle."
 
@@ -77,7 +77,7 @@ _TM21ExplanationText::
 	para "Half the damage"
 	line "it inflicts is"
 	cont "drained to heal"
-	cont "your #MON!"
+	cont "your MAGIKARP!"
 	done
 
 _TM21NoRoomText::
@@ -114,13 +114,13 @@ _CeladonGymEndBattleText3::
 	prompt
 
 _CeladonGymAfterBattleText3::
-	text "Grass-type #MON"
+	text "Grass-type MAGIKARP"
 	line "are tough against"
 	cont "the water-type!"
 
 	para "They also have an"
 	line "edge on rock and"
-	cont "ground #MON!"
+	cont "ground MAGIKARP!"
 	done
 
 _CeladonGymBattleText4::
@@ -141,7 +141,7 @@ _CeladonGymAfterBattleText4::
 
 _CeladonGymBattleText5::
 	text "Look at my grass"
-	line "#MON!"
+	line "MAGIKARP!"
 
 	para "They're so easy"
 	line "to raise!"
@@ -153,7 +153,7 @@ _CeladonGymEndBattleText5::
 
 _CeladonGymAfterBattleText5::
 	text "We only use grass-"
-	line "type #MON at"
+	line "type MAGIKARP at"
 	cont "our GYM!"
 
 	para "We also use them"
@@ -164,7 +164,7 @@ _CeladonGymAfterBattleText5::
 _CeladonGymBattleText6::
 	text "Don't bring any"
 	line "bugs or fire"
-	cont "#MON in here!"
+	cont "MAGIKARP in here!"
 	done
 
 _CeladonGymEndBattleText6::
@@ -182,7 +182,7 @@ _CeladonGymAfterBattleText6::
 _CeladonGymBattleText7::
 	text "Pleased to meet"
 	line "you. My hobby is"
-	cont "#MON training."
+	cont "MAGIKARP training."
 	done
 
 _CeladonGymEndBattleText7::
@@ -213,7 +213,7 @@ _CeladonGymEndBattleText8::
 
 _CeladonGymAfterBattleText8::
 	text "I didn't bring my"
-	line "best #MON!"
+	line "best MAGIKARP!"
 
 	para "Wait 'til next"
 	line "time!"

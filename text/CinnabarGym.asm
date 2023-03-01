@@ -5,7 +5,7 @@ _BlainePreBattleText::
 	line "am the LEADER of"
 	cont "CINNABAR GYM!"
 
-	para "My fiery #MON"
+	para "My fiery MAGIKARP"
 	line "will incinerate"
 	cont "all challengers!"
 
@@ -27,7 +27,7 @@ _BlainePostBattleAdviceText::
 	cont "technique!"
 
 	para "Don't waste it on"
-	line "water #MON!"
+	line "water MAGIKARP!"
 	done
 
 _BlaineVolcanoBadgeInfoText::
@@ -36,7 +36,7 @@ _BlaineVolcanoBadgeInfoText::
 	para "The VOLCANOBADGE"
 	line "heightens the"
 	cont "SPECIAL abilities"
-	cont "of your #MON!"
+	cont "of your MAGIKARP!"
 
 	para "Here, you can"
 	line "have this too!"
@@ -56,10 +56,10 @@ _TM38ExplanationText::
 	line "FIRE BLAST!"
 
 	para "Teach it to fire-"
-	line "type #MON!"
+	line "type MAGIKARP!"
 
-	para "CHARMELEON or"
-	line "PONYTA would be"
+	para "MAGIKARP or"
+	line "MAGIKARP would be"
 	cont "good bets!"
 	done
 
@@ -70,7 +70,7 @@ _TM38NoRoomText::
 
 _CinnabarGymBattleText2::
 	text "Do you know how"
-	line "hot #MON fire"
+	line "hot MAGIKARP fire"
 	cont "breath can get?"
 	done
 
@@ -102,13 +102,13 @@ _CinnabarGymEndBattleText1::
 _CinnabarGymAfterBattleText1::
 	text "I can't help"
 	line "stealing other"
-	cont "people's #MON!"
+	cont "people's MAGIKARP!"
 	done
 
 _CinnabarGymBattleText3::
 	text "You can't win!"
 	line "I have studied"
-	cont "#MON totally!"
+	cont "MAGIKARP totally!"
 	done
 
 _CinnabarGymEndBattleText3::
@@ -124,7 +124,7 @@ _CinnabarGymAfterBattleText3::
 
 _CinnabarGymBattleText4::
 	text "I just like using"
-	line "fire #MON!"
+	line "fire MAGIKARP!"
 	done
 
 _CinnabarGymEndBattleText4::
@@ -134,7 +134,7 @@ _CinnabarGymEndBattleText4::
 
 _CinnabarGymAfterBattleText4::
 	text "I wish there was"
-	line "a thief #MON!"
+	line "a thief MAGIKARP!"
 	cont "I'd use that!"
 	done
 
@@ -151,7 +151,7 @@ _CinnabarGymAfterBattleText5::
 	text "BLAINE was lost"
 	line "in the mountains"
 	cont "when a fiery bird"
-	cont "#MON appeared."
+	cont "MAGIKARP appeared."
 
 	para "Its light enabled"
 	line "BLAINE to find"
@@ -170,9 +170,9 @@ _CinnabarGymEndBattleText6::
 	prompt
 
 _CinnabarGymAfterBattleText6::
-	text "Us fire #MON"
-	line "fans like PONYTA"
-	cont "and NINETALES!"
+	text "Us fire MAGIKARP"
+	line "fans like MAGIKARP"
+	cont "and MAGIKARP!"
 	done
 
 _CinnabarGymBattleText7::
@@ -188,7 +188,7 @@ _CinnabarGymEndBattleText7::
 _CinnabarGymAfterBattleText7::
 	text "Water beats fire!"
 	line "But, fire melts"
-	cont "ice #MON!"
+	cont "ice MAGIKARP!"
 	done
 
 _CinnabarGymGuidePreBattleText::
@@ -197,7 +197,7 @@ _CinnabarGymGuidePreBattleText::
 
 	para "The hot-headed"
 	line "BLAINE is a fire"
-	cont "#MON pro!"
+	cont "MAGIKARP pro!"
 
 	para "Douse his spirits"
 	line "with water!"

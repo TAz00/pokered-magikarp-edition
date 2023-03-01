@@ -6,7 +6,7 @@ _LavenderHouse2Text_1d9dc::
 	text "I hate those"
 	line "horrible ROCKETs!"
 
-	para "That poor CUBONE's"
+	para "That poor MAGIKARP's"
 	line "mother..."
 
 	para "It was killed"
@@ -16,7 +16,7 @@ _LavenderHouse2Text_1d9dc::
 
 _LavenderHouse2Text_1d9e1::
 	text "The GHOST of"
-	line "#MON TOWER is"
+	line "MAGIKARP TOWER is"
 	cont "gone!"
 
 	para "Someone must have"

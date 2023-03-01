@@ -1,17 +1,17 @@
 _Route4Text1::
 	text "Ouch! I tripped"
 	line "over a rocky"
-	cont "#MON, GEODUDE!"
+	cont "MAGIKARP, MAGIKARP!"
 	done
 
 _Route4BattleText1::
 	text "I came to get my"
-	line "mushroom #MON!"
+	line "mushroom MAGIKARP!"
 	done
 
 _Route4EndBattleText1::
 	text "Oh! My cute"
-	line "mushroom #MON!"
+	line "mushroom MAGIKARP!"
 	prompt
 
 _Route4AfterBattleText1::

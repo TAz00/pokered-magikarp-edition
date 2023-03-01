@@ -8,7 +8,7 @@
 	db 100 ; base exp
 
 	INCBIN "gfx/pokemon/front/seel.pic", 0, 1 ; sprite dimensions
-	dw SeelPicFront, SeelPicBack
+	dw GrowlithePicFront, GrowlithePicBack
 
 	db HEADBUTT, NO_MOVE, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

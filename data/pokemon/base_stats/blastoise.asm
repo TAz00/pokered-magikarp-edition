@@ -8,7 +8,7 @@
 	db 210 ; base exp
 
 	INCBIN "gfx/pokemon/front/blastoise.pic", 0, 1 ; sprite dimensions
-	dw BlastoisePicFront, BlastoisePicBack
+	dw RhydonPicFront, RhydonPicBack
 
 	db TACKLE, TAIL_WHIP, BUBBLE, WATER_GUN ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate

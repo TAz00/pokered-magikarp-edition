@@ -8,7 +8,7 @@
 	db 73 ; base exp
 
 	INCBIN "gfx/pokemon/front/abra.pic", 0, 1 ; sprite dimensions
-	dw AbraPicFront, AbraPicBack
+	dw DodrioPicFront, DodrioPicBack
 
 	db TELEPORT, NO_MOVE, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate

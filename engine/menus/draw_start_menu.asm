@@ -60,10 +60,10 @@ DrawStartMenu::
 	ret
 
 StartMenuPokedexText:
-	db "POKéDEX@"
+	db "FISHDEX@"
 
 StartMenuPokemonText:
-	db "POKéMON@"
+	db "FISH@@@@"
 
 StartMenuItemText:
 	db "ITEM@"
@@ -87,3 +87,4 @@ PrintStartMenuItem:
 	ld de, SCREEN_WIDTH * 2
 	add hl, de
 	ret
+

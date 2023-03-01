@@ -8,7 +8,7 @@
 	db 97 ; base exp
 
 	INCBIN "gfx/pokemon/front/shellder.pic", 0, 1 ; sprite dimensions
-	dw ShellderPicFront, ShellderPicBack
+	dw RhydonPicFront, RhydonPicBack
 
 	db TACKLE, WITHDRAW, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_SLOW ; growth rate

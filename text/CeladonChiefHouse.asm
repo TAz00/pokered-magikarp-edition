@@ -8,7 +8,7 @@ _CeladonHouseText2::
 	text "CHIEF!"
 
 	para "We just shipped"
-	line "2000 #MON as"
+	line "2000 MAGIKARP as"
 	cont "slot prizes!"
 	done
 

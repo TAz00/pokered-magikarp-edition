@@ -1,23 +1,23 @@
 _FuchsiaMeetingRoomText1::
 	text "We nicknamed the"
-	line "WARDEN SLOWPOKE."
+	line "WARDEN MAGIKARP."
 
-	para "He and SLOWPOKE"
+	para "He and MAGIKARP"
 	line "both look vacant!"
 	done
 
 _FuchsiaMeetingRoomText2::
-	text "SLOWPOKE is very"
+	text "MAGIKARP is very"
 	line "knowledgeable"
-	cont "about #MON!"
+	cont "about MAGIKARP!"
 
 	para "He even has some"
 	line "fossils of rare,"
-	cont "extinct #MON!"
+	cont "extinct MAGIKARP!"
 	done
 
 _FuchsiaMeetingRoomText3::
-	text "SLOWPOKE came in,"
+	text "MAGIKARP came in,"
 	line "but I couldn't"
 	cont "understand him."
 

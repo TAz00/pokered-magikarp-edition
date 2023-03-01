@@ -429,7 +429,7 @@ PrintPlayTime:
 SaveScreenInfoText:
 	db   "PLAYER"
 	next "BADGES    "
-	next "#DEX    "
+	next "FishDEX    "
 	next "TIME@"
 
 DisplayOptionMenu:

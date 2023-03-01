@@ -8,7 +8,7 @@
 	db 184 ; base exp
 
 	INCBIN "gfx/pokemon/front/vileplume.pic", 0, 1 ; sprite dimensions
-	dw VileplumePicFront, VileplumePicBack
+	dw BulbasaurPicFront, BulbasaurPicBack
 
 	db STUN_SPORE, SLEEP_POWDER, ACID, PETAL_DANCE ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate

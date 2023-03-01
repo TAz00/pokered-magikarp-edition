@@ -8,7 +8,7 @@ _LTSurgePreBattleText::
 	cont "That's for sure!"
 
 	para "I tell you kid,"
-	line "electric #MON"
+	line "electric MAGIKARP"
 	cont "saved me during"
 	cont "the war!"
 

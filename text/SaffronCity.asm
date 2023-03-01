@@ -31,7 +31,7 @@ _SaffronCityText6::
 _SaffronCityText7::
 	text "With SILPH under"
 	line "control, we can"
-	cont "exploit #MON"
+	cont "exploit MAGIKARP"
 	cont "around the world!"
 	done
 
@@ -56,7 +56,7 @@ _SaffronCityText10::
 
 _SaffronCityText11::
 	text "I flew here on my"
-	line "PIDGEOT when I"
+	line "MAGIKARP when I"
 	cont "read about SILPH."
 
 	para "It's already over?"
@@ -102,11 +102,11 @@ _SaffronCityText17::
 
 _SaffronCityText18::
 	text "SAFFRON CITY"
-	line "#MON GYM"
+	line "MAGIKARP GYM"
 	cont "LEADER: SABRINA"
 
 	para "The Master of"
-	line "Psychic #MON!"
+	line "Psychic MAGIKARP!"
 	done
 
 _SaffronCityText20::
@@ -130,7 +130,7 @@ _SaffronCityText21::
 
 	para "Try it on those"
 	line "hard-to-catch"
-	cont "#MON."
+	cont "MAGIKARP."
 	done
 
 _SaffronCityText22::

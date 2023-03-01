@@ -8,7 +8,7 @@
 	db 162 ; base exp
 
 	INCBIN "gfx/pokemon/front/fearow.pic", 0, 1 ; sprite dimensions
-	dw FearowPicFront, FearowPicBack
+	dw GrowlithePicFront, GrowlithePicBack
 
 	db PECK, GROWL, LEER, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

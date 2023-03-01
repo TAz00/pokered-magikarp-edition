@@ -8,7 +8,7 @@
 	db 151 ; base exp
 
 	INCBIN "gfx/pokemon/front/weepinbell.pic", 0, 1 ; sprite dimensions
-	dw WeepinbellPicFront, WeepinbellPicBack
+	dw BulbasaurPicFront, BulbasaurPicBack
 
 	db VINE_WHIP, GROWTH, WRAP, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate

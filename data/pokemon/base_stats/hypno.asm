@@ -8,7 +8,7 @@
 	db 165 ; base exp
 
 	INCBIN "gfx/pokemon/front/hypno.pic", 0, 1 ; sprite dimensions
-	dw HypnoPicFront, HypnoPicBack
+	dw DodrioPicFront, DodrioPicBack
 
 	db POUND, HYPNOSIS, DISABLE, CONFUSION ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

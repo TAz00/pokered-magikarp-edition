@@ -8,7 +8,7 @@
 	db 132 ; base exp
 
 	INCBIN "gfx/pokemon/front/gloom.pic", 0, 1 ; sprite dimensions
-	dw GloomPicFront, GloomPicBack
+	dw BulbasaurPicFront, BulbasaurPicBack
 
 	db ABSORB, POISONPOWDER, STUN_SPORE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate

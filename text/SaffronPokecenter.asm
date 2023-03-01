@@ -1,5 +1,5 @@
 _SaffronPokecenterText2::
-	text "#MON growth"
+	text "MAGIKARP growth"
 	line "rates differ from"
 	cont "specie to specie."
 	done

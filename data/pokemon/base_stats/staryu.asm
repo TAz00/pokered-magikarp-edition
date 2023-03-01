@@ -8,7 +8,7 @@
 	db 106 ; base exp
 
 	INCBIN "gfx/pokemon/front/staryu.pic", 0, 1 ; sprite dimensions
-	dw StaryuPicFront, StaryuPicBack
+	dw RhydonPicFront, RhydonPicBack
 
 	db TACKLE, NO_MOVE, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_SLOW ; growth rate

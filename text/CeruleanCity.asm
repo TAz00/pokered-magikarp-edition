@@ -9,7 +9,7 @@ _CeruleanCityText_19668::
 	para "I'm doing great!"
 	line "I caught a bunch"
 	cont "of strong and"
-	cont "smart #MON!"
+	cont "smart MAGIKARP!"
 
 	para "Here, let me see"
 	line "what you caught,"
@@ -35,18 +35,18 @@ _CeruleanCityText_19677::
 	para "I went to BILL's"
 	line "and got him to"
 	cont "show me his rare"
-	cont "#MON!"
+	cont "MAGIKARP!"
 
 	para "That added a lot"
 	line "of pages to my"
-	cont "#DEX!"
+	cont "FishDEX!"
 
 	para "After all, BILL's"
 	line "world famous as a"
 	cont "#MANIAC!"
 
 	para "He invented the"
-	line "#MON Storage"
+	line "MAGIKARP Storage"
 	cont "System on PC!"
 
 	para "Since you're using"
@@ -118,7 +118,7 @@ _CeruleanCityText4::
 _CeruleanCityText5::
 	text "You're making an"
 	line "encyclopedia on"
-	cont "#MON? That"
+	cont "MAGIKARP? That"
 	cont "sounds amusing."
 	done
 
@@ -137,14 +137,14 @@ _CeruleanCityText6::
 	done
 
 _CeruleanCityText_19730::
-	text "OK! SLOWBRO!"
+	text "OK! MAGIKARP!"
 	line "Use SONICBOOM!"
-	cont "Come on, SLOWBRO"
+	cont "Come on, MAGIKARP"
 	cont "pay attention!"
 	done
 
 _CeruleanCityText_19735::
-	text "SLOWBRO punch!"
+	text "MAGIKARP punch!"
 	line "No! You blew it"
 	cont "again!"
 	done
@@ -154,26 +154,26 @@ _CeruleanCityText_1973a::
 	line "No! That's wrong!"
 
 	para "It's so hard to"
-	line "control #MON!"
+	line "control MAGIKARP!"
 
-	para "Your #MON's"
+	para "Your MAGIKARP's"
 	line "obedience depends"
 	cont "on your abilities"
 	cont "as a trainer!"
 	done
 
 _CeruleanCityText_1976f::
-	text "SLOWBRO took a"
+	text "MAGIKARP took a"
 	line "snooze..."
 	done
 
 _CeruleanCityText_19774::
-	text "SLOWBRO is"
+	text "MAGIKARP is"
 	line "loafing around..."
 	done
 
 _CeruleanCityText_19779::
-	text "SLOWBRO turned"
+	text "MAGIKARP turned"
 	line "away..."
 	done
 
@@ -194,10 +194,10 @@ _CeruleanCityText9::
 _CeruleanCityText10::
 	text "This is CERULEAN"
 	line "CAVE! Horribly"
-	cont "strong #MON"
+	cont "strong MAGIKARP"
 	cont "live in there!"
 
-	para "The #MON LEAGUE"
+	para "The MAGIKARP LEAGUE"
 	line "champion is the"
 	cont "only person who"
 	cont "is allowed in!"
@@ -227,7 +227,7 @@ _CeruleanCityText16::
 
 _CeruleanCityText17::
 	text "CERULEAN CITY"
-	line "#MON GYM"
+	line "MAGIKARP GYM"
 	cont "LEADER: MISTY"
 
 	para "The Tomboyish"

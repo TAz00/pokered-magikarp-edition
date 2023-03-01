@@ -8,7 +8,7 @@
 	db 66 ; base exp
 
 	INCBIN "gfx/pokemon/front/squirtle.pic", 0, 1 ; sprite dimensions
-	dw SquirtlePicFront, SquirtlePicBack
+	dw BulbasaurPicFront, BulbasaurPicBack
 
 	db TACKLE, TAIL_WHIP, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate

@@ -8,7 +8,7 @@
 	db 120 ; base exp
 
 	INCBIN "gfx/pokemon/front/omanyte.pic", 0, 1 ; sprite dimensions
-	dw OmanytePicFront, OmanytePicBack
+	dw ArticunoPicFront, ArticunoPicBack
 
 	db WATER_GUN, WITHDRAW, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

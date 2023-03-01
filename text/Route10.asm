@@ -12,7 +12,7 @@ _Route10EndBattleText1::
 
 _Route10AfterBattleText1::
 	text "I have more rare"
-	line "#MON at home!"
+	line "MAGIKARP at home!"
 	done
 
 _Route10BattleText2::
@@ -34,12 +34,12 @@ _Route10AfterBattleText2::
 
 _Route10BattleText3::
 	text "Hi kid, want to"
-	line "see my #MON?"
+	line "see my MAGIKARP?"
 	done
 
 _Route10EndBattleText3::
 	text "Oh no!"
-	line "My #MON!"
+	line "My MAGIKARP!"
 	prompt
 
 _Route10AfterBattleText3::
@@ -49,7 +49,7 @@ _Route10AfterBattleText3::
 
 _Route10BattleText4::
 	text "I've been to a"
-	line "#MON GYM a few"
+	line "MAGIKARP GYM a few"
 	cont "times. But, I"
 	cont "lost each time."
 	done
@@ -92,7 +92,7 @@ _Route10EndBattleText6::
 	prompt
 
 _Route10AfterBattleText6::
-	text "The #MON here"
+	text "The MAGIKARP here"
 	line "are so chunky!"
 	cont "There should be a"
 	cont "pink one with a"

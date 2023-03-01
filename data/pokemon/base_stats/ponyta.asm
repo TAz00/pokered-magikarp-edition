@@ -8,7 +8,7 @@
 	db 152 ; base exp
 
 	INCBIN "gfx/pokemon/front/ponyta.pic", 0, 1 ; sprite dimensions
-	dw PonytaPicFront, PonytaPicBack
+	dw BulbasaurPicFront, BulbasaurPicBack
 
 	db EMBER, NO_MOVE, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

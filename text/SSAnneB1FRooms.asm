@@ -37,7 +37,7 @@ _SSAnne10AfterBattleText2::
 
 _SSAnne10BattleText3::
 	text "Us sailors have"
-	line "#MON too!"
+	line "MAGIKARP too!"
 	done
 
 _SSAnne10EndBattleText3::
@@ -47,7 +47,7 @@ _SSAnne10EndBattleText3::
 
 _SSAnne10AfterBattleText3::
 	text "We caught all our"
-	line "#MON while"
+	line "MAGIKARP while"
 	cont "out at sea!"
 	done
 
@@ -62,7 +62,7 @@ _SSAnne10EndBattleText4::
 	prompt
 
 _SSAnne10AfterBattleText4::
-	text "Sea #MON live"
+	text "Sea MAGIKARP live"
 	line "in deep water."
 	cont "You'll need a ROD!"
 	done
@@ -88,7 +88,7 @@ _SSAnne10BattleText6::
 	text "Hello stranger!"
 	line "Stop and chat!"
 
-	para "All my #MON"
+	para "All my MAGIKARP"
 	line "are from the sea!"
 	done
 
@@ -105,7 +105,7 @@ _SSAnne10AfterBattleText6::
 	done
 
 _SSAnne10Text7::
-	text "My buddy, MACHOKE,"
+	text "My buddy, MAGIKARP,"
 	line "is super strong!"
 
 	para "He has enough"

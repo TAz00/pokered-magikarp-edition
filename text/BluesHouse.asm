@@ -30,7 +30,7 @@ _DaisyUseMapText::
 	done
 
 _BluesHouseDaisyWalkingText::
-	text "#MON are living"
+	text "MAGIKARP are living"
 	line "things! If they"
 	cont "get tired, give"
 	cont "them a rest!"

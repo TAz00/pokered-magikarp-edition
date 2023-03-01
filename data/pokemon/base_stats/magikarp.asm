@@ -8,7 +8,7 @@
 	db 20 ; base exp
 
 	INCBIN "gfx/pokemon/front/magikarp.pic", 0, 1 ; sprite dimensions
-	dw MagikarpPicFront, MagikarpPicBack
+	dw DodrioPicFront, DodrioPicBack
 
 	db SPLASH, NO_MOVE, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_SLOW ; growth rate

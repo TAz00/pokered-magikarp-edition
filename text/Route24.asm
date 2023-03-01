@@ -30,7 +30,7 @@ _Route24Text_51526::
 
 	para "We're a group"
 	line "dedicated to evil"
-	cont "using #MON!"
+	cont "using MAGIKARP!"
 
 	para "Want to join?"
 

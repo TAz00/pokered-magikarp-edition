@@ -8,7 +8,7 @@
 	db 102 ; base exp
 
 	INCBIN "gfx/pokemon/front/drowzee.pic", 0, 1 ; sprite dimensions
-	dw DrowzeePicFront, DrowzeePicBack
+	dw GrowlithePicFront, GrowlithePicBack
 
 	db POUND, HYPNOSIS, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

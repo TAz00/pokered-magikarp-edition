@@ -8,7 +8,7 @@
 	db 78 ; base exp
 
 	INCBIN "gfx/pokemon/front/oddish.pic", 0, 1 ; sprite dimensions
-	dw OddishPicFront, OddishPicBack
+	dw BulbasaurPicFront, BulbasaurPicBack
 
 	db ABSORB, NO_MOVE, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate

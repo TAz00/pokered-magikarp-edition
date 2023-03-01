@@ -8,7 +8,7 @@
 	db 114 ; base exp
 
 	INCBIN "gfx/pokemon/front/koffing.pic", 0, 1 ; sprite dimensions
-	dw KoffingPicFront, KoffingPicBack
+	dw GrowlithePicFront, GrowlithePicBack
 
 	db TACKLE, SMOG, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

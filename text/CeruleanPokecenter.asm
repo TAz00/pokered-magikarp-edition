@@ -4,7 +4,7 @@ _CeruleanPokecenterText2::
 	para "I heard that"
 	line "he'll do whatever"
 	cont "it takes to get"
-	cont "rare #MON!"
+	cont "rare MAGIKARP!"
 	done
 
 _CeruleanPokecenterText3::
@@ -20,5 +20,5 @@ _CeruleanPokecenterText3::
 
 	para "Who wouldn't want"
 	line "to boast about"
-	cont "their #MON?"
+	cont "their MAGIKARP?"
 	done

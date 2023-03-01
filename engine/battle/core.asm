@@ -6322,10 +6322,10 @@ LoadPlayerBackPic:
 	dec a ; is it the old man tutorial?
 	ld de, RedPicBack
 	jr nz, .next
-	ld de, OldManPicBack
+	ld de, DodrioPicBack
 .next
 	ld a, BANK(RedPicBack)
-	ASSERT BANK(RedPicBack) == BANK(OldManPicBack)
+	ASSERT BANK(RedPicBack) == BANK(DodrioPicBack)
 	call UncompressSpriteFromDE
 	predef ScaleSpriteByTwo
 	ld hl, wShadowOAM
@@ -6822,7 +6822,7 @@ InitWildBattle:
 	ld hl, wMonHSpriteDim
 	ld a, $66
 	ld [hli], a   ; write sprite dimensions
-	ld bc, GhostPic
+	ld bc, BulbasaurPicBack
 	ld a, c
 	ld [hli], a   ; write front sprite pointer
 	ld [hl], b

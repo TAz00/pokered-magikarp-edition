@@ -8,7 +8,7 @@
 	db 82 ; base exp
 
 	INCBIN "gfx/pokemon/front/pikachu.pic", 0, 1 ; sprite dimensions
-	dw PikachuPicFront, PikachuPicBack
+	dw ArticunoPicFront, ArticunoPicBack
 
 	db THUNDERSHOCK, GROWL, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate

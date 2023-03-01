@@ -8,7 +8,7 @@
 	db 195 ; base exp
 
 	INCBIN "gfx/pokemon/front/nidoking.pic", 0, 1 ; sprite dimensions
-	dw NidokingPicFront, NidokingPicBack
+	dw RhydonPicFront, RhydonPicBack
 
 	db TACKLE, HORN_ATTACK, POISON_STING, THRASH ; level 1 learnset
 	db GROWTH_MEDIUM_SLOW ; growth rate

@@ -5,12 +5,12 @@ _MeetLaprasGuyText::
 	cont "Why, thank you!"
 
 	para "I want you to"
-	line "have this #MON"
+	line "have this MAGIKARP"
 	cont "for saving us."
 	prompt
 
 _HeresYourLaprasText::
-	text "It's LAPRAS. It's"
+	text "It's MAGIKARP. It's"
 	line "very intelligent."
 
 	para "We kept it in our"
@@ -20,7 +20,7 @@ _HeresYourLaprasText::
 
 	para "I think you will"
 	line "be a good trainer"
-	cont "for LAPRAS!"
+	cont "for MAGIKARP!"
 
 	para "It's a good"
 	line "swimmer. It'll"
@@ -43,7 +43,7 @@ _SilphCo7Text_51e00::
 	text "TEAM ROCKET was"
 	line "after the MASTER"
 	cont "BALL which will"
-	cont "catch any #MON!"
+	cont "catch any MAGIKARP!"
 	done
 
 _CanceledMasterBallText::
@@ -57,7 +57,7 @@ _SilphCo7Text_51e23::
 	text "It would be bad"
 	line "if TEAM ROCKET"
 	cont "took over SILPH"
-	cont "or our #MON!"
+	cont "or our MAGIKARP!"
 	done
 
 _SilphCo7Text_51e28::
@@ -188,13 +188,13 @@ _SilphCo7Text_51ed2::
 	line "and ahead!"
 
 	para "By checking my"
-	line "#DEX, I'm"
+	line "FishDEX, I'm"
 	cont "starting to see"
 	cont "what's strong and"
 	cont "how they evolve!"
 
 	para "I'm going to the"
-	line "#MON LEAGUE"
+	line "MAGIKARP LEAGUE"
 	cont "to boot out the"
 	cont "ELITE FOUR!"
 

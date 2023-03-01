@@ -1,5 +1,5 @@
 _CeladonCityText1::
-	text "I got my KOFFING"
+	text "I got my MAGIKARP"
 	line "in CINNABAR!"
 
 	para "It's nice, but it"
@@ -50,11 +50,11 @@ _TM41ExplanationText::
 	text "TM41 teaches"
 	line "SOFTBOILED!"
 
-	para "Only one #MON"
+	para "Only one MAGIKARP"
 	line "can use it!"
 
-	para "That #MON is"
-	line "CHANSEY!"
+	para "That MAGIKARP is"
+	line "MAGIKARP!"
 	done
 
 _TM41NoRoomText::
@@ -64,10 +64,10 @@ _TM41NoRoomText::
 
 _CeladonCityText6::
 	text "This is my trusted"
-	line "pal, POLIWRATH!"
+	line "pal, MAGIKARP!"
 
 	para "It evolved from"
-	line "POLIWHIRL when I"
+	line "MAGIKARP when I"
 	cont "used WATER STONE!"
 	done
 
@@ -110,7 +110,7 @@ _CeladonCityText11::
 
 _CeladonCityText13::
 	text "CELADON CITY"
-	line "#MON GYM"
+	line "MAGIKARP GYM"
 	cont "LEADER: ERIKA"
 
 	para "The Nature Loving"
@@ -131,7 +131,7 @@ _CeladonCityText16::
 	text "TRAINER TIPS"
 
 	para "GUARD SPEC."
-	line "protects #MON"
+	line "protects MAGIKARP"
 	cont "against SPECIAL"
 	cont "attacks such as"
 	cont "fire and water!"

@@ -15,36 +15,36 @@ _OaksLabText40::
 
 _OaksLabText41::
 	text "<RIVAL>: My"
-	line "#MON looks a"
+	line "MAGIKARP looks a"
 	cont "lot stronger."
 	done
 
 _OaksLabText39::
-	text "Those are #"
+	text "Those are KARP"
 	line "BALLs. They"
-	cont "contain #MON!"
+	cont "contain MAGIKARP!"
 	done
 
 _OaksLabCharmanderText::
 	text "So! You want the"
-	line "fire #MON,"
-	cont "CHARMANDER?"
+	line "fire MAGIKARP,"
+	cont "MAGIKARP?"
 	done
 
 _OaksLabSquirtleText::
 	text "So! You want the"
-	line "water #MON,"
-	cont "SQUIRTLE?"
+	line "water MAGIKARP,"
+	cont "MAGIKARP?"
 	done
 
 _OaksLabBulbasaurText::
 	text "So! You want the"
-	line "plant #MON,"
-	cont "BULBASAUR?"
+	line "plant MAGIKARP,"
+	cont "FISHBONKER?"
 	done
 
 _OaksLabMonEnergeticText::
-	text "This #MON is"
+	text "This MAGIKARP is"
 	line "really energetic!"
 	prompt
 
@@ -57,26 +57,26 @@ _OaksLabReceivedMonText::
 
 _OaksLabLastMonText::
 	text "That's PROF.OAK's"
-	line "last #MON!"
+	line "last MAGIKARP!"
 	done
 
 _OaksLabText_1d2f0::
 	text "OAK: Now, <PLAYER>,"
-	line "which #MON do"
+	line "which MAGIKARP do"
 	cont "you want?"
 	done
 
 _OaksLabText_1d2f5::
 	text "OAK: If a wild"
-	line "#MON appears,"
-	cont "your #MON can"
+	line "MAGIKARP appears,"
+	cont "your MAGIKARP can"
 	cont "fight against it!"
 	done
 
 _OaksLabText_1d2fa::
 	text "OAK: <PLAYER>,"
 	line "raise your young"
-	cont "#MON by making"
+	cont "MAGIKARP by making"
 	cont "it fight!"
 	done
 
@@ -84,14 +84,14 @@ _OaksLabDeliverParcelText1::
 	text "OAK: Oh, <PLAYER>!"
 
 	para "How is my old"
-	line "#MON?"
+	line "MAGIKARP?"
 
 	para "Well, it seems to"
 	line "like you a lot."
 
 	para "You must be"
 	line "talented as a"
-	cont "#MON trainer!"
+	cont "MAGIKARP trainer!"
 
 	para "What? You have"
 	line "something for me?"
@@ -103,13 +103,13 @@ _OaksLabDeliverParcelText1::
 _OaksLabDeliverParcelText2::
 	text_start
 	para "Ah! This is the"
-	line "custom # BALL"
+	line "custom KARP BALL"
 	cont "I ordered!"
 	cont "Thank you!"
 	done
 
 _OaksLabAroundWorldText::
-	text "#MON around the"
+	text "MAGIKARP around the"
 	line "world wait for"
 	cont "you, <PLAYER>!"
 	done
@@ -117,32 +117,32 @@ _OaksLabAroundWorldText::
 _OaksLabGivePokeballsText1::
 	text "OAK: You can't get"
 	line "detailed data on"
-	cont "#MON by just"
+	cont "MAGIKARP by just"
 	cont "seeing them."
 
 	para "You must catch"
 	line "them! Use these"
 	cont "to capture wild"
-	cont "#MON."
+	cont "MAGIKARP."
 
 	para "<PLAYER> got 5"
-	line "# BALLs!@"
+	line "KARP BALLs!@"
 	text_end
 
 _OaksLabGivePokeballsText2::
 	text_start
 	para "When a wild"
-	line "#MON appears,"
+	line "MAGIKARP appears,"
 	cont "it's fair game."
 
-	para "Just throw a #"
+	para "Just throw a KARP"
 	line "BALL at it and try"
 	line "to catch it!"
 
 	para "This won't always"
 	line "work, though."
 
-	para "A healthy #MON"
+	para "A healthy MAGIKARP"
 	line "could escape. You"
 	cont "have to be lucky!"
 	done
@@ -152,14 +152,14 @@ _OaksLabPleaseVisitText::
 	line "sometimes."
 
 	para "I want to know how"
-	line "your #DEX is"
+	line "your FishDEX is"
 	cont "coming along."
 	done
 
 _OaksLabText_1d31d::
 	text "OAK: Good to see "
 	line "you! How is your "
-	cont "#DEX coming? "
+	cont "FishDEX coming? "
 	cont "Here, let me take"
 	cont "a look!"
 	prompt
@@ -177,9 +177,9 @@ _OaksLabText8::
 _OaksLabText_1d340::
 	text "PROF.OAK is the"
 	line "authority on"
-	cont "#MON!"
+	cont "MAGIKARP!"
 
-	para "Many #MON"
+	para "Many MAGIKARP"
 	line "trainers hold him"
 	cont "in high regard!"
 	done
@@ -201,16 +201,16 @@ _OaksLabChooseMonText::
 	para "Here, <PLAYER>!"
 
 	para "There are 3"
-	line "#MON here!"
+	line "MAGIKARP here!"
 
 	para "Haha!"
 
 	para "They are inside"
-	line "the # BALLs."
+	line "the KARP BALLs."
 
 	para "When I was young,"
 	line "I was a serious"
-	cont "#MON trainer!"
+	cont "MAGIKARP trainer!"
 
 	para "In my old age, I"
 	line "have only 3 left,"
@@ -251,7 +251,7 @@ _OaksLabRivalChallengeText::
 	text "<RIVAL>: Wait"
 	line "<PLAYER>!"
 	cont "Let's check out"
-	cont "our #MON!"
+	cont "our MAGIKARP!"
 
 	para "Come on, I'll take"
 	line "you on!"
@@ -261,7 +261,7 @@ _OaksLabText_1d3be::
 	text "WHAT?"
 	line "Unbelievable!"
 	cont "I picked the"
-	cont "wrong #MON!"
+	cont "wrong MAGIKARP!"
 	prompt
 
 _OaksLabText_1d3c3::
@@ -272,7 +272,7 @@ _OaksLabText_1d3c3::
 _OaksLabRivalToughenUpText::
 	text "<RIVAL>: Okay!"
 	line "I'll make my"
-	cont "#MON fight to"
+	cont "MAGIKARP fight to"
 	cont "toughen it up!"
 
 	para "<PLAYER>! Gramps!"
@@ -297,11 +297,11 @@ _OaksLabText23::
 _OaksLabText24::
 	text "On the desk there"
 	line "is my invention,"
-	cont "#DEX!"
+	cont "FishDEX!"
 
 	para "It automatically"
 	line "records data on"
-	cont "#MON you've"
+	cont "MAGIKARP you've"
 	cont "seen or caught!"
 
 	para "It's a hi-tech"
@@ -314,13 +314,13 @@ _OaksLabText25::
 	cont "these with you!"
 
 	para "<PLAYER> got"
-	line "#DEX from OAK!@"
+	line "FishDEX from OAK!@"
 	text_end
 
 _OaksLabText26::
 	text "To make a complete"
 	line "guide on all the"
-	cont "#MON in the"
+	cont "MAGIKARP in the"
 	cont "world..."
 
 	para "That was my dream!"
@@ -337,7 +337,7 @@ _OaksLabText26::
 
 	para "This is a great"
 	line "undertaking in"
-	cont "#MON history!"
+	cont "MAGIKARP history!"
 	done
 
 _OaksLabText27::
@@ -359,6 +359,6 @@ _OaksLabText27::
 	done
 
 _OaksLabText_1d405::
-	text "I study #MON as"
+	text "I study MAGIKARP as"
 	line "PROF.OAK's AIDE."
 	done

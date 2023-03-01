@@ -2,7 +2,7 @@ _PokemonTower2Text_6062d::
 	text "<RIVAL>: Hey,"
 	line "<PLAYER>! What"
 	cont "brings you here?"
-	cont "Your #MON"
+	cont "Your MAGIKARP"
 	cont "don't look dead!"
 
 	para "I can at least"
@@ -21,20 +21,20 @@ _PokemonTower2Text_60632::
 _PokemonTower2Text_60637::
 	text "<RIVAL>: Well,"
 	line "look at all your"
-	cont "wimpy #MON!"
+	cont "wimpy MAGIKARP!"
 
 	para "Toughen them up a"
 	line "bit more!"
 	prompt
 
 _PokemonTower2Text_6063c::
-	text "How's your #DEX"
+	text "How's your FishDEX"
 	line "coming, pal?"
 	cont "I just caught a"
-	cont "CUBONE!"
+	cont "MAGIKARP!"
 
 	para "I can't find the"
-	line "grown-up MAROWAK"
+	line "grown-up MAGIKARP"
 	cont "yet!"
 
 	para "I doubt there are"

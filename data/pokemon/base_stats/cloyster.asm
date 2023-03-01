@@ -8,7 +8,7 @@
 	db 203 ; base exp
 
 	INCBIN "gfx/pokemon/front/cloyster.pic", 0, 1 ; sprite dimensions
-	dw CloysterPicFront, CloysterPicBack
+	dw DodrioPicFront, DodrioPicBack
 
 	db WITHDRAW, SUPERSONIC, CLAMP, AURORA_BEAM ; level 1 learnset
 	db GROWTH_SLOW ; growth rate

@@ -8,7 +8,7 @@
 	db 159 ; base exp
 
 	INCBIN "gfx/pokemon/front/beedrill.pic", 0, 1 ; sprite dimensions
-	dw BeedrillPicFront, BeedrillPicBack
+	dw ArticunoPicFront, ArticunoPicBack
 
 	db FURY_ATTACK, NO_MOVE, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_MEDIUM_FAST ; growth rate
