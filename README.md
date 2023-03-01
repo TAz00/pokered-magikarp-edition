@@ -15,6 +15,53 @@ Why? My brother and I were brainstorming ideas after he got an IPS modded gamebo
 ![alt text](https://github.com/TAz00/pokered-magikarp-edition/blob/master/hello-there.png?raw=true)
 ![alt text](https://github.com/TAz00/pokered-magikarp-edition/blob/master/books.png?raw=true)
 
+# Build with docker
+
+Install Docker for Desktop https://www.docker.com/products/docker-desktop/
+
+![alt text](https://github.com/TAz00/pokered-magikarp-edition/blob/master/docker-folder.png?raw=true)
+
+### dockerfile
+
+```
+# syntax=docker/dockerfile:1
+FROM ubuntu:18.04
+
+RUN apt-get update && apt-get -y upgrade && apt-get -y install \
+    build-essential make clang git sed gcc bison pkg-config libpng-dev && \
+    apt-get clean && \
+    rm -rf /tmp/* /var/tmp/* /var/lib/apt/archive/* /var/lib/apt/lists/*
+
+RUN git clone https://github.com/gbdev/rgbds
+WORKDIR /rgbds
+RUN make -j4
+RUN make install
+WORKDIR /
+RUN mkdir /pokered
+WORKDIR /pokered
+
+CMD make clean && make -j4
+```
+
+### build-windows.bat - Build the docker image
+
+```
+@REM Build docker image
+docker build -t docker-poke-builder:latest . 
+pause
+```
+
+### run-windows.bat - Compile
+
+```
+@REM Run docker image 
+docker container run -v /c/build/pokered-magikarp-edition-master:/pokered docker-poke-builder:latest  
+copy C:\build\pokered-magikarp-edition-master\pokered.gbc C:\build\POKEMONR.GBC /Y
+copy C:\build\pokered-magikarp-edition-master\pokeblue.gbc C:\build\POKEMONB.GBC /Y
+pause
+```
+
+
 # Pokémon Red and Blue [![Build Status][ci-badge]][ci]
 
 This is a disassembly of Pokémon Red and Blue.
