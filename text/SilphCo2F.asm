@@ -32,7 +32,7 @@ _TM36NoRoomText::
 	done
 
 _SilphCo2BattleText1::
-	text "Help! I'm a SILPH"
+	text "Help! I'm a KARP"
 	line "employee."
 	done
 
@@ -44,7 +44,7 @@ _SilphCo2EndBattleText1::
 
 _SilphCo2AfterBattleText1::
 	text "I work for both"
-	line "SILPH and TEAM"
+	line "KARP and TEAM"
 	cont "ROCKET!"
 	done
 
@@ -91,7 +91,7 @@ _SilphCo2EndBattleText4::
 	prompt
 
 _SilphCo2AfterBattleText4::
-	text "SILPH CO. will"
+	text "KARP CO. will"
 	line "be merged with"
 	cont "TEAM ROCKET!"
 	done

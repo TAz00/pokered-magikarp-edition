@@ -69,9 +69,9 @@ _NidokingDexEntry::
 	dex
 
 _SlowbroDexEntry::
-	text "The SHELLDER that"
+	text "The MAGIKARP that"
 	next "is latched onto"
-	next "SLOWPOKE's tail"
+	next "MAGIKARP's tail"
 
 	page "is said to feed"
 	next "on the host's left"
@@ -94,14 +94,14 @@ _ExeggutorDexEntry::
 	next "one of its heads"
 
 	page "will drop off and"
-	next "continue on as an"
-	next "EXEGGCUTE"
+	next "continue on as a"
+	next "MAGIKARP"
 	dex
 
 _LickitungDexEntry::
 	text "Its tongue can be"
 	next "extended like a"
-	next "chameleon's. It"
+	next "MAGIKARP's. It"
 
 	page "leaves a tingling"
 	next "sensation when it"
@@ -490,7 +490,7 @@ _ElectabuzzDexEntry::
 
 _MagnetonDexEntry::
 	text "Formed by several"
-	next "MAGNEMITEs linked"
+	next "MAGIKARPs linked"
 	next "together. They"
 
 	page "frequently appear"
@@ -514,7 +514,7 @@ _MankeyDexEntry::
 	next "be docile one"
 
 	page "moment then"
-	next "thrashing away"
+	next "splashing away"
 	next "the next instant"
 	dex
 
@@ -979,8 +979,8 @@ _PrimeapeDexEntry::
 	dex
 
 _DugtrioDexEntry::
-	text "A team of DIGLETT"
-	next "triplets."
+	text "A team of"
+	next "MAGIKARP triplets"
 	next "It triggers huge"
 
 	page "earthquakes by"
@@ -1161,10 +1161,10 @@ _ClefableDexEntry::
 _WeezingDexEntry::
 	text "Where two kinds"
 	next "of poison gases"
-	next "meet, 2 KOFFINGs"
+	next "meet, 2 MAGIKARP"
 
 	page "can fuse into a"
-	next "WEEZING over many"
+	next "MAGIKARP over many"
 	next "years"
 	dex
 

@@ -29,7 +29,7 @@ _SaffronCityText6::
 	done
 
 _SaffronCityText7::
-	text "With SILPH under"
+	text "With KARP under"
 	line "control, we can"
 	cont "exploit MAGIKARP"
 	cont "around the world!"
@@ -57,7 +57,7 @@ _SaffronCityText10::
 _SaffronCityText11::
 	text "I flew here on my"
 	line "MAGIKARP when I"
-	cont "read about SILPH."
+	cont "read about KARP."
 
 	para "It's already over?"
 	line "I missed the"
@@ -71,7 +71,7 @@ _SaffronCityText12::
 _SaffronCityText13::
 	text "I saw ROCKET"
 	line "BOSS escaping"
-	cont "SILPH's building."
+	cont "KARP's building."
 	done
 
 _SaffronCityText14::
@@ -134,7 +134,7 @@ _SaffronCityText21::
 	done
 
 _SaffronCityText22::
-	text "SILPH CO."
+	text "KARP CO."
 	line "OFFICE BUILDING"
 	done
 
@@ -144,7 +144,7 @@ _SaffronCityText24::
 	done
 
 _SaffronCityText25::
-	text "SILPH's latest"
+	text "KARP.Co's latest"
 	line "product!"
 
 	para "Release to be"

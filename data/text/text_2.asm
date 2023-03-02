@@ -213,7 +213,7 @@ _UnusedBenchGuyText2::
 	done
 
 _UnusedBenchGuyText3::
-	text "SILPH's manager"
+	text "KARP's manager"
 	line "is hiding in the"
 	cont "SAFARI ZONE."
 	done
@@ -417,7 +417,7 @@ _OakLabEmailText::
 	text "There's an e-mail"
 	line "message here!"
 
-	para "..."
+	para "...blup...blup..."
 
 	para "Calling all"
 	line "MAGIKARP trainers!"
@@ -482,7 +482,7 @@ TMNotebookText::
 	line "HMs that can be"
 	cont "used repeatedly."
 
-	para "SILPH CO.@"
+	para "KARP CO.@"
 	text_end
 
 _TurnPageText::
@@ -566,7 +566,7 @@ _WhatGoesAroundComesAroundText::
 	done
 
 _FightingDojoText::
-	text "FIGHTING DOJO"
+	text "FISHING DOJO"
 	done
 
 _IndigoPlateauHQText::
@@ -804,7 +804,7 @@ _PokemonBooksText::
 
 _DiglettSculptureText::
 	text "It's a sculpture"
-	line "of DIGLETT."
+	line "of MAGIKARP."
 	done
 
 _ElevatorText::
@@ -1261,7 +1261,7 @@ _TrainerWantsToFightText::
 	prompt
 
 _UnveiledGhostText::
-	text "SILPH SCOPE"
+	text "KARP SCOPE"
 	line "unveiled the"
 	cont "GHOST's identity!"
 	prompt

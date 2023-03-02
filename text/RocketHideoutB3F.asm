@@ -10,7 +10,7 @@ _RocketHideout3EndBattleText2::
 	prompt
 
 _RocketHideout3AfterBattleTxt2::
-	text "SILPH SCOPE?"
+	text "KARP SCOPE?"
 	line "The machine the"
 	cont "BOSS stole. It's"
 	cont "here somewhere."
