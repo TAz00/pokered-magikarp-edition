@@ -11,9 +11,14 @@
 
 Why? My brother and I were brainstorming ideas after he got an IPS modded gameboy
 
-![alt text](https://github.com/TAz00/pokered-magikarp-edition/blob/master/magikarp-mon.png?raw=true)
-![alt text](https://github.com/TAz00/pokered-magikarp-edition/blob/master/hello-there.png?raw=true)
-![alt text](https://github.com/TAz00/pokered-magikarp-edition/blob/master/books.png?raw=true)
+<p float="left">
+  <img src="/MagikarpBoxArt.png" width="300" />
+  <img src="/magikarp-mon.png" width="335" /> 
+</p>
+<p float="left">
+  <img src="/hello-there.png" width="300" />
+  <img src="/books.png" width="300" /> 
+</p>
 
 # Build with docker
 
