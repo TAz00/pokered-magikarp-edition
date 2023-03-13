@@ -1,7 +1,7 @@
 # Batteryless Cartridge Save Patch
 
 
-So I wanted to flash my magikarp game onto some cartridges, and I run into the problem of batteryless save cartridges.
+So I wanted to flash my magikarp game onto some cartridges, and I ran into the problem of batteryless save cartridges.
 Can't save the game because it expects battery powered SRam.
 
 
