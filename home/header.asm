@@ -2,11 +2,18 @@
 
 SECTION "rst0", ROM0[$0000]
 	rst $38
+SwitchToFlashCodeBank::
+	ld a,BANK(SaveSRamToFlash)
+	jp SwitchToBankInA
 
 	ds $08 - @, 0 ; unused
 
 SECTION "rst8", ROM0[$0008]
 	rst $38
+SwitchToBankInA::
+	ldh [hLoadedROMBank], a	; Set hLoadedROMBank = 30;
+	ld [MBC1RomBank], a		; MBC1RomBank = 30;
+	ret	
 
 	ds $10 - @, 0 ; unused
 
@@ -17,7 +24,8 @@ SECTION "rst10", ROM0[$0010]
 
 SECTION "rst18", ROM0[$0018]
 	rst $38
-
+ChipAndManufacturerID:
+	db $04,$C7		; Chip or Manufacturer ID
 	ds $20 - @, 0 ; unused
 
 SECTION "rst20", ROM0[$0020]
@@ -66,6 +74,7 @@ SECTION "serial", ROM0[$0058]
 SECTION "joypad", ROM0[$0060]
 	reti
 
+;SECTION "WriteFlashCode", ROM0[$00BE]
 
 SECTION "Header", ROM0[$0100]
 

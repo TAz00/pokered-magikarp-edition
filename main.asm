@@ -322,6 +322,10 @@ INCLUDE "engine/gfx/mon_icons.asm"
 INCLUDE "engine/events/in_game_trades.asm"
 INCLUDE "engine/gfx/palettes.asm"
 INCLUDE "engine/menus/save.asm"
+INCLUDE "savegame/setinterrupts.asm"
+INCLUDE "savegame/savesramtoflash.asm"
+INCLUDE "savegame/loadsramfromflash.asm"
+INCLUDE "savegame/clearsramfromflash.asm"
 
 
 SECTION "Itemfinder 1", ROMX
@@ -354,3 +358,19 @@ INCLUDE "data/battle_anims/frame_blocks.asm"
 INCLUDE "engine/movie/evolution.asm"
 INCLUDE "engine/overworld/elevator.asm"
 INCLUDE "engine/items/tm_prices.asm"
+
+SECTION "writeflashbank", ROMX
+INCLUDE "savegame/verifychecksum.asm"
+INCLUDE "savegame/eraseflash0.asm"
+INCLUDE "savegame/writeflash0.asm"
+
+; Bootleg Cartridge save area
+SECTION "savebank38", ROMX
+SaveChunk1: INCBIN "savegame/savebin01.bin"
+SECTION "savebank39", ROMX
+SaveChunk2: INCBIN "savegame/savebin02.bin"
+SECTION "savebank3A", ROMX
+SaveChunk3: INCBIN "savegame/savebin03.bin"
+SECTION "savebank3B", ROMX
+SaveChunk4: INCBIN "savegame/savebin04.bin"
+

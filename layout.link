@@ -29,6 +29,7 @@ ROM0
 	"joypad"
 	; $0061
 	"High Home"
+	;"WriteFlashCode"
 	org $100
 	"Header"
 	org $150
@@ -177,6 +178,20 @@ ROMX $2B
 	"Pokédex Text"
 ROMX $2C
 	"Move Names"
+ROMX $37
+	"writeflashbank"
+ROMX $38
+	org $6000
+	"savebank38"
+ROMX $39
+	org $6000
+	"savebank39"
+ROMX $3A
+	org $6000
+	"savebank3A"
+ROMX $3B
+	org $6000
+	"savebank3B"
 WRAM0
 	"Audio RAM"
 	org $c100
@@ -188,7 +203,9 @@ WRAM0
 	"Party Data"
 	"Main Data"
 	"Current Box Data"
-	org $df00
+	"WriteFlashCodeBank"
+	"WriteFlashCodeExec"
+	org $df48
 	"Stack"
 VRAM
 	"VRAM"

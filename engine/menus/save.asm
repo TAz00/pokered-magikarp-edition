@@ -165,6 +165,7 @@ SaveSAV:
 	call PlaceString
 	ld c, 120
 	call DelayFrames
+	call SaveSRamToFlash						; Save to Flash hook
 	ld hl, GameSavedText
 	call PrintText
 	ld a, SFX_SAVE
@@ -686,6 +687,7 @@ HallOfFame_Copy:
 	ret
 
 ClearSAV:
+	call ClearSRamFromFlash					; Hook the clear save routine to first clear FLASH area
 	ld a, SRAM_ENABLE
 	ld [MBC1SRamEnable], a
 	ld a, $1

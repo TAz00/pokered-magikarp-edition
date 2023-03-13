@@ -2323,9 +2323,18 @@ wBoxMonNicksEnd::
 
 wBoxDataEnd::
 
+SECTION UNION "WriteFlashCodeBank", WRAM0
+wSRamBankNumToSave:: db
+
+	ds $02
+	
+SECTION UNION "WriteFlashCodeExec", WRAM0
+
+wWriteFlashCodeExecStart::
+	ds $60
 
 SECTION "Stack", WRAM0
 
 ; the stack grows downward
-	ds $100 - 1
+	ds $B2 - 1;	ds $100 - 1
 wStack:: db

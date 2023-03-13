@@ -9,6 +9,7 @@ SECTION "High Home", ROM0
 INCLUDE "home/lcd.asm"
 INCLUDE "home/clear_sprites.asm"
 INCLUDE "home/copy.asm"
+INCLUDE "savegame/rom0functions.asm"
 
 
 SECTION "Home", ROM0

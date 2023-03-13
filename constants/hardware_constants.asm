@@ -20,6 +20,11 @@ DEF MBC1SRamEnable      EQU $0000
 DEF MBC1RomBank         EQU $2000
 DEF MBC1SRamBank        EQU $4000
 DEF MBC1SRamBankingMode EQU $6000
+; Bootleg Flash Cart, Code Rom Bank + 4 Save Data ROM banks of 8k x 4 = 32k save
+DEF BL_FLASHBANK_0        EQU $38
+DEF BL_FLASHBANK_1        EQU $39
+DEF BL_FLASHBANK_2        EQU $3A
+DEF BL_FLASHBANK_3        EQU $3B
 
 DEF SRAM_DISABLE EQU $00
 DEF SRAM_ENABLE  EQU $0a

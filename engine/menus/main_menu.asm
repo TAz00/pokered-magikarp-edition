@@ -5,6 +5,7 @@ MainMenu:
 	ld [wOptionsInitialized], a
 	inc a
 	ld [wSaveFileStatus], a
+	predef LoadSRamFromFlash
 	call CheckForPlayerNameInSRAM
 	jr nc, .mainMenuLoop
 
