@@ -1,16 +1,22 @@
 # Batteryless Cartridge Save Patch
 
+
 So I wanted to flash my magikarp game onto some cartridges, and I run into the problem of batteryless save cartridges.
 Can't save the game because it expects battery powered SRam.
 
+
 So using the BGB emulator, lots of notepad, bit of chatgpt, I've gone from knowing no assembly, to a build-from-source patch that works with my cartridges.
 
+
 I havnt yet figured out the details of the commands sent to (0555) and (02AA) to control the read/write/erase, just that they work for this cartridge.
+
 
 The original patch, used the cartridge checksum, inplace of the chipID and/or ManufacturerID, which is verified before saving.
 It also only seems to erase the first romBank of the 4 (half-filled) banks used for the save data, so I tweaked it a bit. (saves are slower)
 
+
 It was quite fun to figure out the LOAD UNION commands to define code meant to execute from memory.
+
 
 Not quite sure if the stack position in WRAM0 is still going to work, might collide with the space im using for executing in memory.
 The reason im still using the method of loading code to memory, is I couldnt fit it all ROM0.
@@ -21,9 +27,13 @@ The reason im still using the method of loading code to memory, is I couldnt fit
 </p>
 
 Some things I could've done
+
 	- Use more of the pokémon built-in commands to transfer memory, didnt do this because it would make the code less portable.
-	- Shrink the code better, yeah well, I have 7 days of assembly experience now :p
+	
+	- Shrink the code better, yeah well, I have 7 days of assembly experience now :p 
+	
 	- Instead of using 2000 bytes of 4000 to save the data in 4 rombanks, could save it in two now
+	
 	- Move the save/load mainroutines out of C1 to their own bank, then use small jumps to header to load that codebank
 
 # Pokémon Red and Blue [![Build Status][ci-badge]][ci]
